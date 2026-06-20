@@ -46,9 +46,12 @@ export default function Pricing() {
       return;
     }
     
-    // Once Stripe is integrated, this will redirect to checkout
-    console.log(`Selected plan: ${planId}`);
-    alert(`Redirecting to Stripe Checkout for ${planId} plan...\n\n(Stripe integration in progress)`);
+    // Redirect to the appropriate Stripe Checkout URL
+    if (planId === 'monthly') {
+      window.location.href = 'https://buy.stripe.com/3cI9AT4ke3Jp5Db4OQew800';
+    } else if (planId === 'annual') {
+      window.location.href = 'https://buy.stripe.com/7sY3cv2c693J2qZ6WYew801';
+    }
   };
 
   return (
