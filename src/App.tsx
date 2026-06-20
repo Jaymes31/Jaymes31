@@ -4,20 +4,34 @@ import Home from './pages/Home';
 import Library from './pages/Library';
 import Pricing from './pages/Pricing';
 import Programs from './pages/Programs';
+import Auth from './pages/Auth';
+import { AuthProvider } from './contexts/AuthContext';
+import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
   return (
-    <Router>
-      <Layout>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/library" element={<Library />} />
-          <Route path="/programs" element={<Programs />} />
-          <Route path="/pricing" element={<Pricing />} />
-          <Route path="/signup" element={<Pricing />} />
-        </Routes>
-      </Layout>
-    </Router>
+    <AuthProvider>
+      <Router>
+        <Layout>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/library" element={<Library />} />
+            <Route 
+              path="/programs" 
+              element={
+                <ProtectedRoute requireSubscription>
+                  <Programs />
+                </ProtectedRoute>
+              } 
+            />
+            <Route path="/pricing" element={<Pricing />} />
+            <Route path="/auth" element={<Auth />} />
+            <Route path="/signup" element={<Auth />} />
+            <Route path="/login" element={<Auth />} />
+          </Routes>
+        </Layout>
+      </Router>
+    </AuthProvider>
   );
 }
 

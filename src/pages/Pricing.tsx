@@ -1,7 +1,10 @@
 import { Check } from 'lucide-react';
+import { useAuth } from '../contexts/AuthContext';
+import { useNavigate } from 'react-router-dom';
 
 const PLANS = [
   {
+    id: 'monthly',
     name: 'Basic',
     price: '$9.99',
     interval: 'month',
@@ -16,6 +19,7 @@ const PLANS = [
     popular: false,
   },
   {
+    id: 'annual',
     name: 'Annual Elite',
     price: '$89.99',
     interval: 'year',
@@ -33,12 +37,31 @@ const PLANS = [
 ];
 
 export default function Pricing() {
+  const { user } = useAuth();
+  const navigate = useNavigate();
+
+  const handleSelectPlan = (planId: string) => {
+    if (!user) {
+      navigate('/signup');
+      return;
+    }
+    
+    // Once Stripe is integrated, this will redirect to checkout
+    console.log(`Selected plan: ${planId}`);
+    alert(`Redirecting to Stripe Checkout for ${planId} plan...\n\n(Stripe integration in progress)`);
+  };
+
   return (
     <div className="py-20 bg-zinc-950 min-h-screen">
       <div className="container mx-auto px-4">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Simple, Transparent Pricing</h1>
           <p className="text-zinc-400 text-lg">Choose the plan that fits your training goals. No hidden fees, cancel anytime.</p>
+          {user && user.isSubscriber && (
+            <div className="mt-6 bg-primary/10 border border-primary/20 text-primary px-6 py-3 rounded-xl inline-block font-medium">
+              You already have an active subscription!
+            </div>
+          )}
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
@@ -79,17 +102,17 @@ export default function Pricing() {
               </ul>
 
               <button 
-                onClick={() => {
-                  alert(`Redirecting to Stripe Checkout for ${plan.name} plan...`);
-                  // In a real app, this would call your backend to create a Stripe session
-                }}
+                onClick={() => handleSelectPlan(plan.id)}
+                disabled={user?.isSubscriber}
                 className={`w-full py-4 rounded-xl font-bold transition-all ${
-                  plan.popular 
-                    ? 'bg-primary hover:bg-primary-dark text-white shadow-lg shadow-primary/20' 
-                    : 'bg-zinc-800 hover:bg-zinc-700 text-white'
+                  user?.isSubscriber
+                    ? 'bg-zinc-800 text-zinc-500 cursor-not-allowed'
+                    : plan.popular 
+                      ? 'bg-primary hover:bg-primary-dark text-white shadow-lg shadow-primary/20' 
+                      : 'bg-zinc-800 hover:bg-zinc-700 text-white'
                 }`}
               >
-                {plan.cta}
+                {user?.isSubscriber ? 'Current Plan' : plan.cta}
               </button>
             </div>
           ))}
