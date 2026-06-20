@@ -1,0 +1,1971 @@
+[
+  {
+    "id": "dead-hang",
+    "name": "Dead Hang",
+    "category": "Pull-Up Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Forearms (Grip)",
+        "Lats"
+      ],
+      "secondary": [
+        "Shoulder Stabilizers",
+        "Lower Trapezius"
+      ]
+    },
+    "description": "An isometric hang from a pull-up bar, building foundational grip strength, shoulder decompression, and active shoulder stability.",
+    "form_cues": {
+      "setup": "Place hands slightly wider than shoulder-width on a pull-up bar, using an overhand (pronated) grip. Wrap your thumbs fully around the bar.",
+      "execution": "Let your body hang completely straight. Transition from a passive hang (shoulders up by your ears) to an active hang (shoulders pulled down away from ears, scapula depressed). Keep your core and glutes engaged to prevent swinging, legs straight with toes pointed.",
+      "key_cues": [
+        "Keep a strong wrap-around grip with the thumbs.",
+        "Squeeze your glutes and core to prevent swinging.",
+        "Engage your shoulders by pulling them down (active hang) to protect the shoulder joint."
+      ]
+    },
+    "common_mistakes": [
+      "Passive hanging with pre-existing shoulder pain (should use active hangs).",
+      "Letting the body swing uncontrollably.",
+      "Bending the elbows (should remain fully locked)."
+    ],
+    "progression_criteria": "Hold a solid active hang for 3 sets of 45-60 seconds with comfortable form before progressing.",
+    "video_instructions": "Side and back-angle shots showing transition from passive hang (shoulders up) to active hang (shoulders depressed). Highlight elbow lock and core tightness (hollow body profile)."
+  },
+  {
+    "id": "scapular-pull-up",
+    "name": "Scapular Pull-up",
+    "category": "Pull-Up Progression",
+    "difficulty": "Beginner",
+    "progression_order": 2,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lower Trapezius",
+        "Scapular Depressors"
+      ],
+      "secondary": [
+        "Lats",
+        "Forearms (Grip)"
+      ]
+    },
+    "description": "A small-range movement focusing on initiating a pull-up using only the shoulder blades, building back strength and mind-muscle connection for the first phase of the pull-up.",
+    "form_cues": {
+      "setup": "Hang from the bar with a standard overhand, shoulder-width grip. Keep arms completely straight.",
+      "execution": "Start in a passive hang. Without bending your elbows, depress and retract your shoulder blades, pulling your shoulders down away from your ears and lifting your chest up. Hold the active position for 1-2 seconds, then slowly lower back to the passive hang.",
+      "key_cues": [
+        "Pull your shoulders down and away from your ears.",
+        "Keep your arms fully locked; do not bend the elbows.",
+        "Imagine pushing the bar down to lift your collarbones."
+      ]
+    },
+    "common_mistakes": [
+      "Bending the elbows to pull the body up.",
+      "Rushing the movement without holding the top contracted position.",
+      "Losing core tension and arching the lower back excessively."
+    ],
+    "progression_criteria": "Perform 3 sets of 10-12 controlled repetitions with a 2-second hold at the peak before progressing.",
+    "video_instructions": "Shoot directly from the back in close-up, illustrating the scapular retraction and depression. Highlight the locked elbows and movement of the shoulder blades."
+  },
+  {
+    "id": "negative-pull-up",
+    "name": "Negative Pull-up",
+    "category": "Pull-Up Progression",
+    "difficulty": "Beginner",
+    "progression_order": 3,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar",
+      "Elevated Surface"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Biceps"
+      ],
+      "secondary": [
+        "Forearms (Grip)",
+        "Core"
+      ]
+    },
+    "description": "An eccentric-focused pull-up variation that builds the necessary muscular strength and motor control to complete a full concentric pull-up.",
+    "form_cues": {
+      "setup": "Place a box or chair beneath the bar. Step up so your chin is above the bar, and grip the bar with a shoulder-width overhand grip.",
+      "execution": "Step off the box, taking your full bodyweight onto the bar with your chin over it. Slowly and under complete control, lower your body in a straight line over a 5 to 8-second count until your arms are fully extended in a dead hang.",
+      "key_cues": [
+        "Control every inch of the descent; don't drop fast at the bottom.",
+        "Keep your core tight and legs together, avoiding flailing.",
+        "Maintain a slow, consistent tempo (5-8 seconds count) from top to bottom."
+      ]
+    },
+    "common_mistakes": [
+      "Losing control and dropping rapidly in the bottom half of the range.",
+      "Kicking legs or losing core stiffness.",
+      "Not completing the full range of motion (failing to go all the way down to a dead hang)."
+    ],
+    "progression_criteria": "Perform 3 sets of 5-6 slow negatives (each lasting 7-8 seconds) with perfect control before progressing.",
+    "video_instructions": "Side-angle shot to show the continuous, steady descent and straight line of the body. Focus on showcasing control near the bottom of the movement."
+  },
+  {
+    "id": "chin-up",
+    "name": "Chin-up",
+    "category": "Pull-Up Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 4,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Biceps",
+        "Lats"
+      ],
+      "secondary": [
+        "Forearms (Grip)",
+        "Upper Back"
+      ]
+    },
+    "description": "A vertical pulling movement using an underhand (supinated) grip, which leverages the biceps to assist the latissimus dorsi, making it an ideal bridge to the classic pull-up.",
+    "form_cues": {
+      "setup": "Grip the bar with an underhand (palms facing you) grip, shoulder-width apart. Begin in a full dead hang.",
+      "execution": "Engage your scapula (shoulders down), then pull your body up in a smooth motion. Keep elbows tucked close to your body. Pull until your chin clears the bar, squeeze briefly, then lower yourself under control back to a full dead hang.",
+      "key_cues": [
+        "Pull your elbows down toward your back pockets.",
+        "Keep your chest high and lead with the collarbone.",
+        "Ensure full elbow extension at the bottom of every rep."
+      ]
+    },
+    "common_mistakes": [
+      "Using momentum or kicking legs to get over the bar (kipping).",
+      "Short-changing the range of motion (not lowering all the way down).",
+      "Letting elbows flare widely outwards."
+    ],
+    "progression_criteria": "Perform 3 sets of 8 strict, full-range chin-ups before progressing to classic pull-ups.",
+    "video_instructions": "45-degree front-side angle to capture the chin clearing the bar, tucked elbows, and full extension at the bottom."
+  },
+  {
+    "id": "classic-pull-up",
+    "name": "Classic Pull-up",
+    "category": "Pull-Up Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 5,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Upper Back"
+      ],
+      "secondary": [
+        "Biceps",
+        "Forearms (Grip)",
+        "Core"
+      ]
+    },
+    "description": "The gold standard of bodyweight pulling strength. A strict vertical pull using a pronated grip, building an impressive back and upper-body foundation.",
+    "form_cues": {
+      "setup": "Grip the bar with an overhand (palms facing away) grip, slightly wider than shoulder-width. Begin in a dead hang with core and glutes squeezed.",
+      "execution": "Depress your scapula to activate your back. Pull yourself upwards by driving your elbows down and back. Pull until your chest or collarbone touches or approaches the bar, and your chin is clearly over it. Lower down under strict control to a full dead hang.",
+      "key_cues": [
+        "Pull the bar down to your chest, rather than pulling your body to the bar.",
+        "Keep your legs together, knees straight, and squeeze your glutes.",
+        "Keep your neck neutral; don't strain your chin up to reach the bar."
+      ]
+    },
+    "common_mistakes": [
+      "Kipping or using a bicycle kick to gain height.",
+      "Failing to go to a full dead hang at the bottom.",
+      "Shrugging shoulders at the top, putting unnecessary stress on the neck and joints."
+    ],
+    "progression_criteria": "Perform 3 sets of 8 strict reps before moving to advanced vertical pulling variations.",
+    "video_instructions": "Back shot showing excellent scapular retraction and depression, and a side shot showing the straight line of the body and chest-to-bar contact."
+  },
+  {
+    "id": "wall-push-up",
+    "name": "Wall Push-up",
+    "category": "Push-Up Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Push",
+    "equipment": [
+      "Wall"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Chest (Pectorals)",
+        "Triceps"
+      ],
+      "secondary": [
+        "Anterior Deltoids",
+        "Core"
+      ]
+    },
+    "description": "The entry-level pushing exercise. Elevating the torso to a wall reduces the percentage of bodyweight loaded, allowing focus on correct shoulder alignment and core bracing.",
+    "form_cues": {
+      "setup": "Stand facing a wall, about arm's length away. Place your hands on the wall at shoulder-height and slightly wider than shoulder-width. Keep your feet together.",
+      "execution": "Brace your core and squeeze your glutes to form a straight line from head to heels. Bend your elbows, lowering your chest toward the wall. Keep your elbows tucked at a 45-degree angle. Push back to the starting position by extending your arms fully.",
+      "key_cues": [
+        "Maintain a straight line; do not let your hips sag toward the wall.",
+        "Keep your elbows pointing diagonally backward (45 degrees), not flared out.",
+        "Push through the palms of your hands to extend your arms."
+      ]
+    },
+    "common_mistakes": [
+      "Flaring elbows out to 90 degrees, which irritates the shoulders.",
+      "Bending at the hips (sagging or keeping butt back).",
+      "Shrugging the shoulders up toward the ears."
+    ],
+    "progression_criteria": "Perform 3 sets of 15 strict, slow repetitions before progressing to Incline Push-ups.",
+    "video_instructions": "Side-angle shot to show the straight line from head to heels and the diagonal tuck of the elbows during descent."
+  },
+  {
+    "id": "incline-push-up",
+    "name": "Incline Push-up",
+    "category": "Push-Up Progression",
+    "difficulty": "Beginner",
+    "progression_order": 2,
+    "movement_type": "Push",
+    "equipment": [
+      "Elevated Surface"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Chest (Pectorals)",
+        "Triceps"
+      ],
+      "secondary": [
+        "Anterior Deltoids",
+        "Core",
+        "Serratus Anterior"
+      ]
+    },
+    "description": "An intermediate-beginner push-up variation using a bench, box, or sturdy step to reduce bodyweight resistance while transitioning closer to the floor.",
+    "form_cues": {
+      "setup": "Place your hands on a stable elevated surface (approx. 24-30 inches high), slightly wider than shoulder-width. Step your feet back so your body is in a straight line.",
+      "execution": "Squeeze your glutes and brace your abs. Lower your chest under control until it gently touches the edge of the elevated surface. Press your hands firmly into the surface to return to the starting position with arms fully locked.",
+      "key_cues": [
+        "Keep your core as stiff as a board.",
+        "Touch your lower chest/sternum to the edge of the box.",
+        "Protract your shoulder blades (push away) at the top of the movement."
+      ]
+    },
+    "common_mistakes": [
+      "Bending at the waist or letting the lower back arch.",
+      "Bouncing your chest off the elevated surface.",
+      "Short-changing the top range of motion (not locking out elbows)."
+    ],
+    "progression_criteria": "Perform 3 sets of 12 strict reps on a 24-inch surface before progressing.",
+    "video_instructions": "Side-angle shot capturing the entire body line. Slow-motion focus on chest touching the box and the full arm lockout at the top."
+  },
+  {
+    "id": "knee-push-up",
+    "name": "Knee Push-up",
+    "category": "Push-Up Progression",
+    "difficulty": "Beginner",
+    "progression_order": 3,
+    "movement_type": "Push",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Chest (Pectorals)",
+        "Triceps",
+        "Anterior Deltoids"
+      ],
+      "secondary": [
+        "Core"
+      ]
+    },
+    "description": "A floor-based push-up that reduces resistance by pivoting at the knees, helping to develop pushing endurance and strength before moving to full push-ups.",
+    "form_cues": {
+      "setup": "Get on all fours on the floor. Slide your knees back until there is a straight line from your head down to your knees. Cross your ankles or keep feet on floor.",
+      "execution": "Brace your core. Lower your body down by bending your elbows at a 45-degree angle until your chest is about an inch from the floor. Push up forcefully to lock out your arms.",
+      "key_cues": [
+        "Squeeze your glutes to maintain a straight torso.",
+        "Look slightly forward, not down at your knees.",
+        "Don't let your lower back sag; keep abdominal tension."
+      ]
+    },
+    "common_mistakes": [
+      "Hips remaining bent at a 90-degree angle (piking).",
+      "Elbows flaring out to the sides.",
+      "Incomplete range of motion (not going low enough)."
+    ],
+    "progression_criteria": "Perform 3 sets of 15 reps with perfect form before moving to Classic Push-ups.",
+    "video_instructions": "Side shot displaying the pivot at the knees, the flat line from head to knees, and chest depth."
+  },
+  {
+    "id": "classic-push-up",
+    "name": "Classic Push-up",
+    "category": "Push-Up Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 4,
+    "movement_type": "Push",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Chest (Pectorals)",
+        "Triceps",
+        "Anterior Deltoids"
+      ],
+      "secondary": [
+        "Core",
+        "Serratus Anterior",
+        "Glutes"
+      ]
+    },
+    "description": "The foundational horizontal pushing exercise. Builds strong chest, shoulders, triceps, and a highly stable, integrated core.",
+    "form_cues": {
+      "setup": "Begin in a high plank position with hands slightly wider than shoulder-width, feet together, and body completely straight.",
+      "execution": "Squeeze your glutes, quadriceps, and abdominals. Lower your body under control until your chest is less than an inch from the floor (or gently brushes it). Keep your elbows tucked at 45 degrees. Push back up, actively pushing the floor away, protracting your shoulders at the peak.",
+      "key_cues": [
+        "Corkscrew your hands into the floor to engage your shoulders.",
+        "Keep your body in a rigid line; your chest and hips should rise and fall together.",
+        "Push all the way through at the top to spread your shoulder blades."
+      ]
+    },
+    "common_mistakes": [
+      "Lower back sagging (banana back) due to poor core engagement.",
+      "Leading with the chin/neck instead of the chest.",
+      "Flaring the elbows outward, creating shoulder impingement risk."
+    ],
+    "progression_criteria": "Perform 3 sets of 20 strict, slow, and full-range push-ups before progressing.",
+    "video_instructions": "Side and front-quarter angles showing the solid body line and hand placement. Highlight the elbow angle and full chest depth."
+  },
+  {
+    "id": "diamond-push-up",
+    "name": "Diamond Push-up",
+    "category": "Push-Up Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 5,
+    "movement_type": "Push",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Triceps",
+        "Chest (Inner/Lower)"
+      ],
+      "secondary": [
+        "Anterior Deltoids",
+        "Core",
+        "Serratus Anterior"
+      ]
+    },
+    "description": "An advanced push-up variation that brings the hands close together to form a diamond shape, massively increasing the loading on the triceps and inner chest.",
+    "form_cues": {
+      "setup": "Assume a push-up position, but place your index fingers and thumbs together directly under your chest, forming a diamond or triangle shape.",
+      "execution": "Squeeze your core and glutes. Lower your chest under control until it touches the back of your hands. Keep your elbows tucked close to your ribcage. Press forcefully back to the starting position, keeping your body rigid.",
+      "key_cues": [
+        "Keep elbows tucked close to your body; do not let them flare.",
+        "Control the descent; do not drop onto your wrists.",
+        "Ensure your chest actually makes contact with your hands."
+      ]
+    },
+    "common_mistakes": [
+      "Letting the elbows flare wide, placing excessive stress on the wrists and elbows.",
+      "Sagging hips or curved spine.",
+      "Using hand shapes that are too uncomfortable (can separate hands slightly if wrist mobility is limited)."
+    ],
+    "progression_criteria": "Perform 3 sets of 12 strict repetitions before progressing to advanced planche prep push-ups.",
+    "video_instructions": "Top-down or diagonal front angle showing the hand placement and the diamond shape. Side shot demonstrating the elbow tuck and chest touching the hands."
+  },
+  {
+    "id": "bench-dip",
+    "name": "Bench Dip",
+    "category": "Dip Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Push",
+    "equipment": [
+      "Elevated Surface"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Triceps"
+      ],
+      "secondary": [
+        "Chest",
+        "Anterior Deltoids",
+        "Core"
+      ]
+    },
+    "description": "An excellent introductory vertical pushing movement. Placing your feet on the floor reduces bodyweight resistance, letting you build tricep strength and elbow joint integrity.",
+    "form_cues": {
+      "setup": "Sit on the edge of a sturdy bench or chair. Place your hands next to your hips, fingers gripping the edge. Slide your butt forward off the bench, supporting your weight with your hands and feet on the floor (knees bent at 90 degrees).",
+      "execution": "Keep your shoulders depressed and chest high. Bend your elbows to lower your hips toward the floor. Stop when your elbows reach a 90-degree angle. Press through your palms to return to the starting position, fully locking out your elbows.",
+      "key_cues": [
+        "Keep your back close to the bench to avoid shoulder hyperextension.",
+        "Keep your shoulders down away from your ears throughout.",
+        "Ensure full lockout of the elbows at the top."
+      ]
+    },
+    "common_mistakes": [
+      "Letting your hips drift too far away from the bench, straining the shoulders.",
+      "Shrugging the shoulders up toward the ears (lack of scapular depression).",
+      "Going too deep, which can aggravate the anterior shoulder shoulder joint capsule."
+    ],
+    "progression_criteria": "Perform 3 sets of 15 controlled repetitions before progressing to Feet-Elevated Bench Dips.",
+    "video_instructions": "Side shot showing the back scraping closely to the bench, the 90-degree bend at the elbow, and the straight vertical alignment of the spine."
+  },
+  {
+    "id": "feet-elevated-bench-dip",
+    "name": "Feet-Elevated Bench Dip",
+    "category": "Dip Progression",
+    "difficulty": "Beginner",
+    "progression_order": 2,
+    "movement_type": "Push",
+    "equipment": [
+      "Two Elevated Surfaces"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Triceps",
+        "Chest (Lower)"
+      ],
+      "secondary": [
+        "Anterior Deltoids",
+        "Core"
+      ]
+    },
+    "description": "A progression of the bench dip where the feet are elevated on a second platform, placing a higher percentage of bodyweight onto the triceps and shoulders.",
+    "form_cues": {
+      "setup": "Set up two sturdy benches or chairs opposite each other. Sit on one edge, placing hands next to hips. Place your heels on the opposite bench. Slide your butt off the bench, suspending your body between the two surfaces.",
+      "execution": "Inhale and lower your body by bending your elbows until they reach a 90-degree angle, keeping your back close to the support bench. Exhale and press yourself back up by extending your arms completely.",
+      "key_cues": [
+        "Keep your core engaged to maintain a straight leg position.",
+        "Drive your elbows straight back, rather than letting them flare outward.",
+        "Focus on squeezing your triceps at the very top of the movement."
+      ]
+    },
+    "common_mistakes": [
+      "Allowing the body to sag at the waist.",
+      "Dropping too fast and bouncing at the bottom.",
+      "Flaring elbows to the sides."
+    ],
+    "progression_criteria": "Perform 3 sets of 12 strict repetitions before progressing to the parallel bar support hold.",
+    "video_instructions": "Side shot displaying both benches, showing the horizontal leg position, the straight line of the spine, and full depth."
+  },
+  {
+    "id": "parallel-bar-support",
+    "name": "Parallel Bar Support Hold",
+    "category": "Dip Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 3,
+    "movement_type": "Push",
+    "equipment": [
+      "Dip Bars"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lower Trapezius",
+        "Shoulder Girdle"
+      ],
+      "secondary": [
+        "Triceps",
+        "Core",
+        "Pectorals"
+      ]
+    },
+    "description": "An essential isometric exercise. Teaches static scapular depression and develops the deep shoulder stability required to perform safe dips on parallel bars.",
+    "form_cues": {
+      "setup": "Stand between parallel bars. Place your hands on the bars and jump up, extending your arms fully to support your bodyweight. Keep your feet together and legs straight.",
+      "execution": "Actively depress your shoulders, pulling them down away from your ears. Keep your elbows completely locked out. Squeeze your core and glutes, and pull your shoulder blades back slightly. Keep your gaze straight forward.",
+      "key_cues": [
+        "Push the bars down as hard as you can to stay tall.",
+        "Lock your elbows completely; do not allow even a slight bend.",
+        "Imagine a straight line from your ears through your shoulders down to your hips."
+      ]
+    },
+    "common_mistakes": [
+      "Shrugging or letting your ears sink down to your shoulders.",
+      "Letting your chest cave in and shoulders roll forward (internal rotation).",
+      "Allowing your elbows to bend slightly."
+    ],
+    "progression_criteria": "Hold a solid, active support for 3 sets of 30-45 seconds with perfect, stable form before progressing.",
+    "video_instructions": "Front and side-angle shots of the support hold, illustrating the long neck (shoulders depressed), locked elbows, and straight body profile."
+  },
+  {
+    "id": "negative-parallel-bar-dip",
+    "name": "Negative Parallel Bar Dip",
+    "category": "Dip Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 4,
+    "movement_type": "Push",
+    "equipment": [
+      "Dip Bars",
+      "Elevated Surface"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Triceps",
+        "Chest (Lower)",
+        "Anterior Deltoids"
+      ],
+      "secondary": [
+        "Shoulder Stabilizers",
+        "Core"
+      ]
+    },
+    "description": "An eccentric vertical pushing movement. Focuses on the lowering portion of the parallel bar dip to build strength, control, and tendon resilience in the chest and shoulders.",
+    "form_cues": {
+      "setup": "Use a step or box to get into the top of the parallel bar support position with arms fully locked and shoulders depressed.",
+      "execution": "Under absolute control, slowly lower your body by bending your elbows, taking a full 5 to 7 seconds to descend. Stop when your shoulders are slightly below elbow height (approx. 90-degree elbow bend). Step back onto the box to return to the top, and repeat.",
+      "key_cues": [
+        "Count slowly (1, 2, 3...) to ensure a uniform 5-7 second descent.",
+        "Keep your torso slightly leaned forward to target the chest safely.",
+        "Keep your elbows tucked and pointing backward, not flaring out."
+      ]
+    },
+    "common_mistakes": [
+      "Dropping rapidly through the bottom half of the movement.",
+      "Going too deep before the shoulders are ready, risking strain.",
+      "Letting the shoulders shrug up at the bottom of the movement."
+    ],
+    "progression_criteria": "Perform 3 sets of 6 controlled, slow negatives (6-8 seconds each) with perfect form before progressing.",
+    "video_instructions": "Side-angle shot capturing the continuous, steady descent, displaying the forward torso lean, tucked elbows, and control at the bottom."
+  },
+  {
+    "id": "parallel-bar-dip",
+    "name": "Parallel Bar Dip",
+    "category": "Dip Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 5,
+    "movement_type": "Push",
+    "equipment": [
+      "Dip Bars"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Chest (Lower/Sternum)",
+        "Triceps",
+        "Anterior Deltoids"
+      ],
+      "secondary": [
+        "Core",
+        "Shoulder Girdle"
+      ]
+    },
+    "description": "The fundamental calisthenics compound movement for upper body pushing. Builds massive chest, triceps, and anterior shoulder strength.",
+    "form_cues": {
+      "setup": "Start in the parallel bar support position with arms locked, shoulders depressed, and body straight. Lean your torso slightly forward and bend your knees slightly if needed (or keep legs straight for clean form).",
+      "execution": "Inhale and lower your body by bending your elbows until your shoulders are slightly below your elbows (elbows bent to at least 90 degrees). Keep your elbows tucked close to your body. Exhale and press through your palms to return to the starting position, locking out your arms fully and depressing your shoulders.",
+      "key_cues": [
+        "Lean slightly forward to engage the chest; don't stay completely vertical.",
+        "Keep your elbows pointed backward, avoiding wide flares.",
+        "Ensure your shoulders do not roll forward at the bottom of the dip."
+      ]
+    },
+    "common_mistakes": [
+      "Failing to go deep enough (not reaching 90 degrees of elbow bend).",
+      "Rolling the shoulders forward at the bottom (putting excessive stress on the anterior joint).",
+      "Kipping or swinging legs to push back up."
+    ],
+    "progression_criteria": "Perform 3 sets of 10 strict, deep, and controlled repetitions before moving to ring dips or L-sit dips.",
+    "video_instructions": "Side-angle shot displaying the full range of motion. Highlight the shoulder descending below the elbow joint, torso angle, and full lockout at the top."
+  },
+  {
+    "id": "pike-hold",
+    "name": "Pike Hold",
+    "category": "Handstand & HSPU Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Push",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Deltoids (Anterior/Medial)",
+        "Triceps"
+      ],
+      "secondary": [
+        "Core",
+        "Trapezius",
+        "Hamstrings"
+      ]
+    },
+    "description": "An introductory exercise for overhead pushing. By raising the hips and pivoting at the waist, this movement shifts bodyweight onto the shoulders, mimicking the vertical overhead pressing angle.",
+    "form_cues": {
+      "setup": "Begin in a high plank position. Walk your feet forward toward your hands while keeping your legs straight, raising your hips high in the air to form an inverted 'V' shape (pike position). Hand placement should be shoulder-width.",
+      "execution": "Push the floor away through your palms, actively shrugging your shoulders to press your hips as high and far back as possible. Aim to align your arms and torso in a straight line. Keep your neck relaxed, looking back at your toes.",
+      "key_cues": [
+        "Actively push the floor away to elevate your shoulders.",
+        "Try to stack your hips directly over your shoulders.",
+        "Keep your legs as straight as your flexibility allows; bend knees slightly if hamstrings are tight."
+      ]
+    },
+    "common_mistakes": [
+      "Sinking into the shoulders (shoulders not elevated/shrugged).",
+      "Keeping the hands too far forward, resulting in a standard plank angle.",
+      "Bending the elbows."
+    ],
+    "progression_criteria": "Hold a stable pike position for 3 sets of 45-60 seconds with active shoulder elevation before progressing.",
+    "video_instructions": "Side-angle shot to show the alignment of the hands, shoulders, and hips. Highlight the active push away from the ground (scapular elevation)."
+  },
+  {
+    "id": "pike-push-up",
+    "name": "Pike Push-up",
+    "category": "Handstand & HSPU Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 2,
+    "movement_type": "Push",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Deltoids (Anterior/Medial)",
+        "Triceps",
+        "Upper Chest"
+      ],
+      "secondary": [
+        "Serratus Anterior",
+        "Trapezius",
+        "Core"
+      ]
+    },
+    "description": "The primary bodyweight overhead pressing exercise. Pivoting in the pike position allows you to press vertically, laying the baseline strength for the handstand push-up.",
+    "form_cues": {
+      "setup": "Start in the pike hold position with hands shoulder-width and hips high. Your weight should be on your toes.",
+      "execution": "Lower your head forward and down in a diagonal path, forming a tripod shape (your hands are the base of the triangle, your head is the tip). Touch your forehead gently to the floor. Press backward and upward diagonally to return to the starting pike hold, finishing with your head pushed through your arms.",
+      "key_cues": [
+        "Lower your head forward, not straight down between your hands.",
+        "Your elbows must tuck backward (diagonally), not flare to the sides.",
+        "Push all the way back up until your arms are in line with your spine at the top."
+      ]
+    },
+    "common_mistakes": [
+      "Flaring elbows out to 90 degrees (ruins shoulder mechanics).",
+      "Lowering straight down between hands (no tripod shape).",
+      "Sagging hips or losing the pike angle during the push."
+    ],
+    "progression_criteria": "Perform 3 sets of 8 strict, slow, and full-range repetitions before progressing to Elevated Pike Push-ups.",
+    "video_instructions": "Side-angle shot showing the diagonal tripod descent and push-back pathway. Highlight the head touching in front of the hand line."
+  },
+  {
+    "id": "wall-supported-handstand-hold",
+    "name": "Wall-Supported Handstand Hold",
+    "category": "Handstand & HSPU Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 3,
+    "movement_type": "Push",
+    "equipment": [
+      "Wall"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Deltoids (Anterior/Medial/Posterior)",
+        "Triceps"
+      ],
+      "secondary": [
+        "Core (Abs/Glutes)",
+        "Trapezius",
+        "Forearms"
+      ]
+    },
+    "description": "A fundamental isometric handstand variation. Using a wall for support eliminates balancing difficulties, allowing you to build overhead endurance, shoulder strength, and proper straight-body alignment.",
+    "form_cues": {
+      "setup": "Stand facing away from a wall. Place your hands on the floor about 3 feet from the wall and walk your feet up the wall behind you. Step your hands closer to the wall as your comfort levels allow, ending with your chest facing the wall.",
+      "execution": "Get as close to the wall as possible. Actively push the floor away, shrugging your shoulders to the ears. Squeeze your legs together, point your toes toward the ceiling, tuck your tailbone (posterior pelvic tilt), and pull your ribs in to form a perfectly straight line.",
+      "key_cues": [
+        "Push the floor away constantly; never sink into your shoulders.",
+        "Keep your head neutral, looking slightly out at your hands with your eyes, not your neck.",
+        "Squeeze your glutes and pull your belly button in to avoid arching your lower back."
+      ]
+    },
+    "common_mistakes": [
+      "Arching the back excessively (banana handstand), letting the belly sag toward the wall.",
+      "Sinking into the shoulders (inactive shoulders).",
+      "Looking straight at the wall, hyperextending the neck."
+    ],
+    "progression_criteria": "Hold a chest-to-wall handstand for 3 sets of 45-60 seconds with perfect alignment and steady breathing before progressing.",
+    "video_instructions": "Side-angle shot showing the straight line from hands to heels. Highlight the hollow body position and active shoulder push."
+  },
+  {
+    "id": "wall-handstand-negative",
+    "name": "Wall Handstand Negative (Eccentric HSPU)",
+    "category": "Handstand & HSPU Progression",
+    "difficulty": "Advanced",
+    "progression_order": 4,
+    "movement_type": "Push",
+    "equipment": [
+      "Wall"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Deltoids (Anterior/Medial)",
+        "Triceps",
+        "Upper Chest"
+      ],
+      "secondary": [
+        "Core",
+        "Serratus Anterior",
+        "Trapezius"
+      ]
+    },
+    "description": "An advanced eccentric overhead press. Lowers bodyweight from a handstand to develop the raw eccentric strength and shoulder stability needed for a full wall handstand push-up.",
+    "form_cues": {
+      "setup": "Assume a wall-supported handstand hold, chest-to-wall or back-to-wall (chest-to-wall is preferred for better mechanics). Step your hands out about 6-10 inches from the wall to allow room to lower.",
+      "execution": "Start with shoulders fully elevated and body tight. Under complete control, slowly bend your elbows to lower your body in a diagonal path until your head gently touches the floor (aim for a 5 to 7-second descent). Keep your core tight. Once down, safely kick out of the handstand, return to the top, and repeat.",
+      "key_cues": [
+        "Lower slowly and uniformly; do not rush the bottom half.",
+        "Keep your elbows tucked at a 45-degree angle; do not let them flare.",
+        "Form a tripod at the bottom: your head should touch the floor in front of your hands."
+      ]
+    },
+    "common_mistakes": [
+      "Dropping fast near the bottom of the movement.",
+      "Flaring the elbows out to the sides.",
+      "Losing core tension and collapsing the arch of the spine."
+    ],
+    "progression_criteria": "Perform 3 sets of 5 slow, controlled negatives (6-8 seconds each) with perfect form before progressing.",
+    "video_instructions": "Side-angle shot illustrating the controlled descent, forward tripod head touch, and body tension. Slow-motion focus on the descent path."
+  },
+  {
+    "id": "wall-handstand-push-up",
+    "name": "Wall Handstand Push-up (Full)",
+    "category": "Handstand & HSPU Progression",
+    "difficulty": "Advanced",
+    "progression_order": 5,
+    "movement_type": "Push",
+    "equipment": [
+      "Wall"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Deltoids (Anterior/Medial)",
+        "Triceps",
+        "Upper Chest"
+      ],
+      "secondary": [
+        "Trapezius",
+        "Serratus Anterior",
+        "Core"
+      ]
+    },
+    "description": "The peak of wall-assisted overhead pushing strength. Demands immense shoulder and tricep power, serving as the direct precursor to freestanding handstand push-ups.",
+    "form_cues": {
+      "setup": "Set up in a handstand with your back to the wall (or chest-to-wall if advanced). Hands should be shoulder-width apart, placed 6-8 inches from the wall. Squeeze your body tight.",
+      "execution": "Lower your head forward in a diagonal line until your forehead or top of your head gently touches the floor, forming a tripod. Keep your elbows tucked in. Press back up forcefully, driving through your palms, until your arms are fully locked out and your shoulders are shrugged at the peak.",
+      "key_cues": [
+        "Tuck your elbows to a 45-degree angle; do not let them flare.",
+        "Push the floor away forcefully to lock out and finish the rep.",
+        "Maintain body tension to prevent sliding friction on the wall."
+      ]
+    },
+    "common_mistakes": [
+      "Flaring elbows, which damages shoulder joints.",
+      "Failing to touch the head to the floor (short reps).",
+      "Arching the lower back excessively to use chest strength rather than shoulders."
+    ],
+    "progression_criteria": "Perform 3 sets of 5 strict, full-range repetitions with perfect form before progressing to freestanding handstand push-up variations.",
+    "video_instructions": "Side-angle shot capturing the entire movement. Highlight the diagonal lowering (tripod), tucked elbows, head touch, and solid lockout."
+  },
+  {
+    "id": "legs-straight-row",
+    "name": "Legs-Straight Inverted Row",
+    "category": "Front Lever Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Pull",
+    "equipment": [
+      "Low Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Upper Back (Rhomboids, Trapezius)",
+        "Biceps"
+      ],
+      "secondary": [
+        "Lats",
+        "Core",
+        "Glutes"
+      ]
+    },
+    "description": "A basic horizontal pulling exercise. Builds foundational back and arm strength while teaching the core and glutes to keep the body in a rigid horizontal line.",
+    "form_cues": {
+      "setup": "Set a low bar or gymnastic rings at about waist height. Sit underneath, grip the bar with a shoulder-width overhand grip, and extend your legs straight in front of you so only your heels touch the floor.",
+      "execution": "Squeeze your glutes, quadriceps, and abdominals to form a rigid diagonal line from head to heels. Retract your shoulder blades and pull your chest up to the bar/rings. Lower under control until your arms are fully extended.",
+      "key_cues": [
+        "Keep your neck neutral and pull your collarbones to the bar.",
+        "Squeeze your glutes to prevent your hips from sagging.",
+        "Drive your elbows backward to fully engage your upper back."
+      ]
+    },
+    "common_mistakes": [
+      "Hips sagging toward the floor.",
+      "Short range of motion (not touching the chest to the bar).",
+      "Shrugging the shoulders up toward the ears."
+    ],
+    "progression_criteria": "Perform 3 sets of 12 strict repetitions before progressing to Tuck Front Lever Hold.",
+    "video_instructions": "Side-angle shot showing the straight line of the body and the chest-to-bar contact. Highlight shoulder retraction at the start of the pull."
+  },
+  {
+    "id": "tuck-front-lever",
+    "name": "Tuck Front Lever Hold",
+    "category": "Front Lever Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 2,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Core (Abs)"
+      ],
+      "secondary": [
+        "Upper Back",
+        "Shoulder Depressors",
+        "Forearms (Grip)"
+      ]
+    },
+    "description": "The first true front lever progression. This tuck position shortens the lever arm, shifting a high workload onto the latissimus dorsi and core as you hold your body horizontal.",
+    "form_cues": {
+      "setup": "Hang from a pull-up bar with an overhand, shoulder-width grip. Pull your knees tightly up into your chest.",
+      "execution": "Lean your torso backward while simultaneously pulling the bar down, lifting your hips up until your entire torso and back are parallel to the floor. Keep your arms completely locked. Hold this horizontal position statically.",
+      "key_cues": [
+        "Keep your arms fully locked; do not bend the elbows.",
+        "Actively push the bar down toward your hips to engage your lats.",
+        "Keep your knees tucked as tight as possible to make the lever short."
+      ]
+    },
+    "common_mistakes": [
+      "Bending the elbows to make the hold easier.",
+      "Letting the hips or chest sag below horizontal.",
+      "Sinking into the shoulders (shoulders should be active and depressed)."
+    ],
+    "progression_criteria": "Hold a solid, horizontal tuck position for 3 sets of 20 seconds before progressing.",
+    "video_instructions": "Side-angle shot showing the horizontal alignment of the torso and hips. Focus on highlighting locked elbows and active shoulder depression."
+  },
+  {
+    "id": "adv-tuck-front-lever",
+    "name": "Advanced Tuck Front Lever Hold",
+    "category": "Front Lever Progression",
+    "difficulty": "Advanced",
+    "progression_order": 3,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Core",
+        "Spinal Erectors"
+      ],
+      "secondary": [
+        "Upper Back",
+        "Forearms (Grip)"
+      ]
+    },
+    "description": "An advanced isometric hold. Opening the angle of the knees from the chest increases the leverage, requiring massive lat and lower back strength to maintain horizontal alignment.",
+    "form_cues": {
+      "setup": "Begin in a tuck front lever hold under a pull-up bar.",
+      "execution": "Slowly move your knees away from your chest until your thighs are at a 90-degree angle relative to your torso. Your lower back must flatten completely, and your hips must stay level with your shoulders. Hold this horizontal position.",
+      "key_cues": [
+        "Keep your back completely flat, like a table; do not let your lower back round.",
+        "Push the bar down to your hips with locked arms.",
+        "Keep your thighs at exactly 90 degrees to your body."
+      ]
+    },
+    "common_mistakes": [
+      "Lower back arching or hips dropping below the shoulder line.",
+      "Elbows bending slightly to compensate.",
+      "Rounding the upper back excessively."
+    ],
+    "progression_criteria": "Hold a stable advanced tuck position for 3 sets of 15 seconds before progressing.",
+    "video_instructions": "Side-angle shot showing the flat back and 90-degree angle of the thighs. Highlight the absolute horizontal plane of the body."
+  },
+  {
+    "id": "one-leg-front-lever",
+    "name": "One-Leg Front Lever Hold",
+    "category": "Front Lever Progression",
+    "difficulty": "Advanced",
+    "progression_order": 4,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Core",
+        "Hip Flexors (Unilateral)"
+      ],
+      "secondary": [
+        "Upper Back",
+        "Glutes",
+        "Hamstrings"
+      ]
+    },
+    "description": "A challenging unilateral lever progression. Extending one leg fully increases the lever length significantly, placing a severe load on the core and pulling muscles of the back.",
+    "form_cues": {
+      "setup": "Begin in a tuck front lever position.",
+      "execution": "Keep one knee tucked tightly to your chest while slowly extending the other leg fully straight in line with your torso. Keep both hips level, squeeze the glute of the extended leg, and hold your body perfectly horizontal.",
+      "key_cues": [
+        "Extend your leg completely, squeezing the quad and glute.",
+        "Keep your hips perfectly square; do not let the extended-leg side sag.",
+        "Alternate legs between sets or mid-set."
+      ]
+    },
+    "common_mistakes": [
+      "Hips twisting or dropping on the extended leg's side.",
+      "Bending the elbows.",
+      "Extended leg angling downward below horizontal."
+    ],
+    "progression_criteria": "Hold for 3 sets of 10-12 seconds per leg with perfect horizontal form before progressing.",
+    "video_instructions": "Side-angle shot capturing the straight line of the extended leg in line with the horizontal torso. Highlight hip levelness."
+  },
+  {
+    "id": "full-front-lever",
+    "name": "Full Front Lever",
+    "category": "Front Lever Progression",
+    "difficulty": "Elite",
+    "progression_order": 5,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Core (Full Body Tension)",
+        "Spinal Erectors"
+      ],
+      "secondary": [
+        "Upper Back",
+        "Shoulder Girdle",
+        "Triceps",
+        "Forearms"
+      ]
+    },
+    "description": "The ultimate horizontal pulling isometric skill. Requires a completely straight body from head to toe held parallel to the ground, representing elite lat, core, and posterior chain strength.",
+    "form_cues": {
+      "setup": "Hang from a bar with a shoulder-width overhand grip. Engage your core, glutes, and back.",
+      "execution": "Pull yourself up and back in one clean motion, keeping your entire body locked in a straight line, until you are suspended perfectly horizontal from head to heels. Your hips and shoulders must be on the same plane, arms fully locked.",
+      "key_cues": [
+        "Squeeze your glutes, quads, and abs as hard as possible.",
+        "Drive your straight arms downward, pulling the bar to your thighs.",
+        "Point your toes and project your body forward to maximize tension."
+      ]
+    },
+    "common_mistakes": [
+      "Hips sagging or lower back arching (banana lever).",
+      "Bending the elbows.",
+      "Torso or legs tilting downward below the parallel line."
+    ],
+    "progression_criteria": "Hold a clean, strict full front lever for 1 set of 5-8 seconds before celebrating.",
+    "video_instructions": "Side-angle shot capturing the flawless, horizontal pencil-straight body line. Highlight locked elbows and the level of the hips."
+  },
+  {
+    "id": "skin-the-cat",
+    "name": "Skin the Cat",
+    "category": "Back Lever Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Shoulder Girdle (Rotator Cuff)",
+        "Core (Abs/Hip Flexors)"
+      ],
+      "secondary": [
+        "Lats",
+        "Biceps",
+        "Upper Back"
+      ]
+    },
+    "description": "A crucial calisthenics mobility and strength exercise. Builds active shoulder extension flexibility and core compression while conditioning the biceps and shoulder tendons for the back lever.",
+    "form_cues": {
+      "setup": "Hang from a bar or rings with an overhand grip. Pull your knees to your chest.",
+      "execution": "Perform a tuck leg raise, continuing the rotation backward by threading your feet between your arms. Lower your hips and legs behind you as far as your shoulder flexibility comfortably allows, entering a deep, suspended stretch. Pull yourself back up through the same path.",
+      "key_cues": [
+        "Keep your movement slow, smooth, and controlled.",
+        "Relax into the bottom stretch, but keep your shoulders active.",
+        "Engage your core to pull your hips back over."
+      ]
+    },
+    "common_mistakes": [
+      "Rushing through the movement or dropping quickly.",
+      "Using bent arms to pull back instead of a straight-arm rotational pull.",
+      "Forcing the shoulder stretch beyond comfortable limits."
+    ],
+    "progression_criteria": "Perform 3 sets of 5 slow, full-range repetitions with perfect control before progressing.",
+    "video_instructions": "Side-angle shot showing the full 360-degree rotation, highlighting the deep stretch at the bottom and control during the return."
+  },
+  {
+    "id": "tuck-back-lever",
+    "name": "Tuck Back Lever Hold",
+    "category": "Back Lever Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 2,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Shoulder Extensors (Deltoids, Lats)",
+        "Core"
+      ],
+      "secondary": [
+        "Spinal Erectors",
+        "Triceps",
+        "Forearms"
+      ]
+    },
+    "description": "The baseline isometric hold for the back lever. Shortens the lever arm by tucking the knees, allowing safe development of shoulder extension strength.",
+    "form_cues": {
+      "setup": "Hang from a bar, pull knees to chest, and rotate backward (skin the cat style) until your back is facing the floor.",
+      "execution": "Align your torso and hips horizontally parallel to the ground. Keep your knees tucked tightly to your chest, arms locked straight, and shoulder blades protracted.",
+      "key_cues": [
+        "Push your hands down to keep your body horizontal.",
+        "Squeeze your knees to your chest.",
+        "Actively engage your core to keep your hips level with your shoulders."
+      ]
+    },
+    "common_mistakes": [
+      "Hips sagging or dropping too low.",
+      "Bending the elbows.",
+      "Retracting the shoulder blades (should be protracted/pushed out)."
+    ],
+    "progression_criteria": "Hold a horizontal tuck position for 3 sets of 20 seconds before progressing.",
+    "video_instructions": "Side-angle shot displaying the face-down horizontal tuck. Highlight the locked elbows and level hips."
+  },
+  {
+    "id": "adv-tuck-back-lever",
+    "name": "Advanced Tuck Back Lever Hold",
+    "category": "Back Lever Progression",
+    "difficulty": "Advanced",
+    "progression_order": 3,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Shoulder Extensors",
+        "Core",
+        "Spinal Erectors"
+      ],
+      "secondary": [
+        "Upper Back",
+        "Forearms"
+      ]
+    },
+    "description": "An advanced tuck variation. Opening the hips to 90 degrees increases leverage, taxing the lower back, glutes, and shoulders significantly more.",
+    "form_cues": {
+      "setup": "Begin in a tuck back lever hold, facing the floor.",
+      "execution": "Slowly open your hips, moving your knees away from your chest until your thighs are at a 90-degree angle relative to your spine. Keep your back flat and horizontal.",
+      "key_cues": [
+        "Squeeze your lower back and glutes to keep your hips high.",
+        "Keep your shoulder blades pushed down and apart.",
+        "Maintain a completely flat, horizontal upper-body line."
+      ]
+    },
+    "common_mistakes": [
+      "Allowing the lower back to arch excessively.",
+      "Hips dropping below the shoulder plane.",
+      "Elbows bending to ease the shoulder tension."
+    ],
+    "progression_criteria": "Hold for 3 sets of 15 seconds with perfect alignment before progressing.",
+    "video_instructions": "Side shot displaying the 90-degree thigh angle and the perfectly flat, horizontal back."
+  },
+  {
+    "id": "one-leg-back-lever",
+    "name": "One-Leg Back Lever Hold",
+    "category": "Back Lever Progression",
+    "difficulty": "Advanced",
+    "progression_order": 4,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Shoulder Extensors",
+        "Core",
+        "Spinal Erectors"
+      ],
+      "secondary": [
+        "Glutes (Extended Leg)",
+        "Hamstrings",
+        "Forearms"
+      ]
+    },
+    "description": "A unilateral lever hold that bridges the advanced tuck to the full lever, requiring extreme core and shoulder stability.",
+    "form_cues": {
+      "setup": "Begin in a tuck back lever position.",
+      "execution": "Keep one knee tucked to your chest while extending the other leg fully straight. Keep your hips square to the ground, squeeze your glutes, and hold your body in a straight, horizontal line.",
+      "key_cues": [
+        "Lock the knee of your extended leg and point your toe.",
+        "Keep your hips perfectly level; do not let the extended-leg side tilt.",
+        "Drive through the shoulders to maintain the horizontal plane."
+      ]
+    },
+    "common_mistakes": [
+      "Extended leg drooping below horizontal.",
+      "Hips twisting to one side.",
+      "Bending the elbows."
+    ],
+    "progression_criteria": "Hold for 3 sets of 10-12 seconds per leg before progressing.",
+    "video_instructions": "Side-angle shot displaying the straight line of the extended leg matching the torso. Highlight glute engagement."
+  },
+  {
+    "id": "full-back-lever",
+    "name": "Full Back Lever",
+    "category": "Back Lever Progression",
+    "difficulty": "Elite",
+    "progression_order": 5,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar or Gymnastic Rings"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Shoulder Extensors (Anterior Deltoids, Lats)",
+        "Core (Abs/Posterior Chain)"
+      ],
+      "secondary": [
+        "Upper Back",
+        "Spinal Erectors",
+        "Glutes",
+        "Triceps"
+      ]
+    },
+    "description": "The full back lever. A spectacular straight-body hold parallel to the floor, facing downward, demonstrating elite extension strength and full-body tension.",
+    "form_cues": {
+      "setup": "Hang from a bar, pull knees to chest, and rotate your body backward, extending your legs fully once past the bar.",
+      "execution": "Squeeze your core, glutes, and legs together. Pull your shoulders forward (protraction) and down, lowering your straight body until it is perfectly parallel to the ground. Lock your elbows out.",
+      "key_cues": [
+        "Squeeze your legs and glutes to lock your posterior chain.",
+        "Active protraction: push your shoulder blades apart.",
+        "Keep a firm overhand grip and lock out your arms."
+      ]
+    },
+    "common_mistakes": [
+      "Hips sagging or lower back arching excessively.",
+      "Bending the elbows.",
+      "Shoulders retracting, putting extreme pressure on the bicep tendons."
+    ],
+    "progression_criteria": "Hold a clean, straight-line full back lever for 1 set of 5-8 seconds before progressing.",
+    "video_instructions": "Side shot capturing the magnificent horizontal straight-body line from shoulders to pointed toes."
+  },
+  {
+    "id": "planche-lean",
+    "name": "Planche Lean",
+    "category": "Planche Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Push",
+    "equipment": [
+      "None or Parallettes"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Anterior Deltoids",
+        "Core (Abs)",
+        "Serratus Anterior"
+      ],
+      "secondary": [
+        "Triceps",
+        "Wrist Flexors",
+        "Glutes"
+      ]
+    },
+    "description": "The core builder for the planche. Teaches straight-arm shoulder loading, scapular protraction, and core integration required for all advanced planche variations.",
+    "form_cues": {
+      "setup": "Get into a high plank position on the floor or parallettes, hands placed slightly wider than shoulder-width, fingers pointing slightly outward or backward (to protect the wrists).",
+      "execution": "Squeeze your abs, glutes, and quads to lock your body in a straight line. Protract your scapula (push your upper back to the ceiling, rounding it slightly) and depress your shoulders. Lean your weight forward, moving your shoulders in front of your hands while keeping your arms fully locked and feet on the floor. Hold statically.",
+      "key_cues": [
+        "Keep your elbows completely locked out; do not let them bend even slightly.",
+        "Protract your shoulders: push the ground away as hard as possible.",
+        "Squeeze your glutes and maintain a posterior pelvic tilt (flat lower back)."
+      ]
+    },
+    "common_mistakes": [
+      "Bending the elbows.",
+      "Sagging lower back (hollow back) or sticking butt up in the air.",
+      "Letting the shoulders retract (sagging chest)."
+    ],
+    "progression_criteria": "Hold a solid 45-degree planche lean with perfect form for 3 sets of 30 seconds before progressing.",
+    "video_instructions": "Side-angle shot showing the forward lean of the shoulders relative to the hands, the rounded upper back (protraction), and the locked elbows."
+  },
+  {
+    "id": "frog-stand",
+    "name": "Frog Stand (Crow Pose)",
+    "category": "Planche Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 2,
+    "movement_type": "Push",
+    "equipment": [
+      "Parallettes or Floor"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Anterior Deltoids",
+        "Wrist/Forearm Stabilizers"
+      ],
+      "secondary": [
+        "Core",
+        "Triceps"
+      ]
+    },
+    "description": "A fundamental hand balance. Shifts your entire bodyweight onto your hands while using your knees on your elbows to reduce shoulder load, building wrist strength and balance.",
+    "form_cues": {
+      "setup": "Place your hands shoulder-width apart on the floor or parallettes. Squat down and place your knees on the outside of your triceps, close to your armpits.",
+      "execution": "Lean forward slowly, transferring your bodyweight from your feet onto your hands. Keep leaning until your feet naturally lift off the floor. Balance on your hands, keeping your core engaged and arms bent (or straight if practicing straight-arm frog stand).",
+      "key_cues": [
+        "Focus your eyes slightly forward, not straight down.",
+        "Squeeze your knees into your elbows to stabilize your balance.",
+        "Slowly transition weight forward; do not jump or hop."
+      ]
+    },
+    "common_mistakes": [
+      "Kicking or jumping off the floor instead of leaning.",
+      "Letting the head drop to the floor.",
+      "Wrists hurting (using parallettes can relieve wrist strain)."
+    ],
+    "progression_criteria": "Hold a stable frog stand for 3 sets of 30 seconds before progressing.",
+    "video_instructions": "Front-quarter and side shots displaying the feet lifted and knees balanced on the elbows. Highlight the control and forward weight shift."
+  },
+  {
+    "id": "tuck-planche",
+    "name": "Tuck Planche Hold",
+    "category": "Planche Progression",
+    "difficulty": "Advanced",
+    "progression_order": 3,
+    "movement_type": "Push",
+    "equipment": [
+      "Parallettes or Floor"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Anterior Deltoids",
+        "Serratus Anterior",
+        "Core"
+      ],
+      "secondary": [
+        "Triceps",
+        "Wrist/Forearm Stabilizers",
+        "Upper Back"
+      ]
+    },
+    "description": "A highly demanding isometric skill. Involves lifting your entire bodyweight off the ground with locked arms, knees tucked into your chest, requiring immense anterior shoulder strength.",
+    "form_cues": {
+      "setup": "Place hands on parallettes or the floor. Start in a crouched position, arms locked straight.",
+      "execution": "Protract your shoulders (push away) and lean your weight forward. Pull your knees up into your chest, lifting your feet and hips off the floor. Your hips should reach shoulder height, and your back should be rounded (protracted). Hold this position statically.",
+      "key_cues": [
+        "Keep your elbows 100% locked out.",
+        "Push the ground away as hard as possible to maintain height.",
+        "Lean forward to balance the weight of your hips."
+      ]
+    },
+    "common_mistakes": [
+      "Bending the elbows (the most common cheat).",
+      "Hips dropping too low (hips must be level with shoulders).",
+      "Scapular retraction (shoulders collapsing together)."
+    ],
+    "progression_criteria": "Hold a solid, clean tuck planche for 3 sets of 10-12 seconds before progressing.",
+    "video_instructions": "Side-angle shot capturing the feet and knees completely off the floor, hips level with shoulders, and locked elbows."
+  },
+  {
+    "id": "adv-tuck-planche",
+    "name": "Advanced Tuck Planche Hold",
+    "category": "Planche Progression",
+    "difficulty": "Advanced",
+    "progression_order": 4,
+    "movement_type": "Push",
+    "equipment": [
+      "Parallettes or Floor"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Anterior Deltoids",
+        "Serratus Anterior",
+        "Spinal Erectors"
+      ],
+      "secondary": [
+        "Core",
+        "Triceps",
+        "Glutes"
+      ]
+    },
+    "description": "An extremely advanced isometric hold. Opening the tuck by flattening the back increases the leverage, putting a massive strain on the anterior deltoids and wrists.",
+    "form_cues": {
+      "setup": "Begin in a tuck planche hold on parallettes.",
+      "execution": "Slowly extend your hips backward, moving your knees away from your chest until your back is flat and horizontal. Your thighs should be perpendicular to your torso (at 90 degrees), hips level with shoulders, arms locked.",
+      "key_cues": [
+        "Flatten your upper and lower back; do not let your spine round.",
+        "Lean further forward to balance the extended hips.",
+        "Keep driving through your palms with locked elbows."
+      ]
+    },
+    "common_mistakes": [
+      "Elbows bending to handle the extreme load.",
+      "Lower back arching or hips sagging below shoulders.",
+      "Losing the scapular protraction."
+    ],
+    "progression_criteria": "Hold a stable advanced tuck planche for 3 sets of 8-10 seconds before progressing.",
+    "video_instructions": "Side shot showing the horizontal flat back, 90-degree thigh angle, forward shoulder lean, and locked elbows."
+  },
+  {
+    "id": "straddle-planche",
+    "name": "Straddle Planche Hold",
+    "category": "Planche Progression",
+    "difficulty": "Elite",
+    "progression_order": 5,
+    "movement_type": "Push",
+    "equipment": [
+      "Parallettes or Floor"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Anterior Deltoids",
+        "Shoulder Girdle",
+        "Core (Full Body Tension)"
+      ],
+      "secondary": [
+        "Spinal Erectors",
+        "Glutes",
+        "Triceps",
+        "Biceps (Lockout)"
+      ]
+    },
+    "description": "An elite calisthenics isometric feat. Holding the body completely straight and parallel to the ground with legs spread wide, demonstrating exceptional shoulder strength and total body coordination.",
+    "form_cues": {
+      "setup": "Begin in an advanced tuck planche on parallettes.",
+      "execution": "Lean your shoulders even further forward while simultaneously extending your legs straight out to the sides in a wide straddle. Squeeze your glutes and lower back to keep your hips, legs, and torso in a single horizontal line. Keep arms fully locked.",
+      "key_cues": [
+        "Squeeze your glutes and quads as hard as possible to keep legs high.",
+        "Lean forward aggressively; your shoulders must be far in front of your hands to balance.",
+        "Point your toes and extend your knees fully."
+      ]
+    },
+    "common_mistakes": [
+      "Hips sagging or legs drooping below horizontal.",
+      "Bending the elbows.",
+      "Losing shoulder protraction and sinking."
+    ],
+    "progression_criteria": "Hold a clean, horizontal straddle planche for 1 set of 5 seconds with perfect form.",
+    "video_instructions": "Side and front-quarter shots showing the dramatic forward shoulder lean, wide straight-leg straddle, and flat horizontal body line."
+  },
+  {
+    "id": "assisted-squat",
+    "name": "Assisted Bodyweight Squat",
+    "category": "Pistol Squat Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Legs",
+    "equipment": [
+      "Pole or Doorframe"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Quadriceps",
+        "Glutes"
+      ],
+      "secondary": [
+        "Hamstrings",
+        "Calves"
+      ]
+    },
+    "description": "An introductory lower body squatting movement. Holding onto a stable vertical surface allows beginners to achieve a full range of motion while maintaining an upright posture.",
+    "form_cues": {
+      "setup": "Stand facing a pole, doorframe, or suspension straps, about arm's length away. Hold on lightly with both hands, feet shoulder-width apart, toes pointed slightly outward.",
+      "execution": "Lower your hips backward and down as if sitting in a chair, keeping your chest proud and spine neutral. Use your hands for support to squat down until your thighs are parallel to the floor or lower. Press through your heels to stand back up.",
+      "key_cues": [
+        "Keep your heels flat on the floor; do not lift them.",
+        "Your knees must track in line with your toes, not cave inward.",
+        "Keep your hands relaxed, using only as much upper-body help as necessary."
+      ]
+    },
+    "common_mistakes": [
+      "Knees caving inward (valgus collapse).",
+      "Lifting the heels off the floor, which loads the knees excessively.",
+      "Rounding the lower back at the bottom of the squat."
+    ],
+    "progression_criteria": "Perform 3 sets of 15 reps with comfortable form before progressing to Bodyweight Squats.",
+    "video_instructions": "Side and front-quarter shots showing heels flat on the floor, proper knee tracking, and vertical spinal alignment."
+  },
+  {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "category": "Pistol Squat Progression",
+    "difficulty": "Beginner",
+    "progression_order": 2,
+    "movement_type": "Legs",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Quadriceps",
+        "Glutes"
+      ],
+      "secondary": [
+        "Hamstrings",
+        "Calves",
+        "Core"
+      ]
+    },
+    "description": "The fundamental bodyweight lower body compound movement. Establishes proper squatting mechanics, hip mobility, and foundational lower body strength.",
+    "form_cues": {
+      "setup": "Stand with feet shoulder-width apart, toes pointing slightly outward (around 15-30 degrees). Bring hands out in front of you for balance.",
+      "execution": "Inhale, push your hips back, and bend your knees to lower your body under control. Squat down until your crease of hip is below the top of your knees (below parallel). Keep your core engaged and chest high. Exhale and drive through your heels to stand up.",
+      "key_cues": [
+        "Keep your weight distributed evenly across your feet, driving through the heels.",
+        "Push your knees outward so they track directly over your toes.",
+        "Keep your spine neutral and torso as upright as possible."
+      ]
+    },
+    "common_mistakes": [
+      "Spine rounding excessively (butt wink) at the bottom.",
+      "Knees collapsing inward.",
+      "Failing to achieve full depth (not reaching parallel)."
+    ],
+    "progression_criteria": "Perform 3 sets of 20 strict, full-range reps before progressing to Close-Stance Squats.",
+    "video_instructions": "Side-angle shot displaying hip depth below knee level, a neutral spine, and heels flat. Front-quarter shot showing proper knee tracking."
+  },
+  {
+    "id": "close-stance-squat",
+    "name": "Close-Stance Squat",
+    "category": "Pistol Squat Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 3,
+    "movement_type": "Legs",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Quadriceps",
+        "Glutes"
+      ],
+      "secondary": [
+        "Hamstrings",
+        "Calves",
+        "Ankle Flexors",
+        "Core"
+      ]
+    },
+    "description": "An intermediate squat variation. Bringing the feet together shifts more weight onto the quadriceps and demands greater ankle dorsiflexion, preparing the joints for the single-leg stance.",
+    "form_cues": {
+      "setup": "Stand with your feet touching side-by-side (heels and big toes together). Extend your arms straight in front of you.",
+      "execution": "Lower your body under control by pushing your hips back and bending your knees. Keep your knees squeezed together throughout the movement. Descend until your thighs touch your calves (deep squat), then press back up to standing.",
+      "key_cues": [
+        "Keep your feet and knees glued together; do not let them separate.",
+        "Drive your weight through your heels, maintaining balance.",
+        "Reach your arms forward to counterbalance the backward hip shift."
+      ]
+    },
+    "common_mistakes": [
+      "Heels lifting off the floor (indicates tight calves/ankles).",
+      "Knees flaring apart.",
+      "Spine rounding excessively."
+    ],
+    "progression_criteria": "Perform 3 sets of 15 deep close-stance squats with heels flat before progressing to Assisted Pistol Squats.",
+    "video_instructions": "Side and front shots showcasing feet and knees touching, with deep knee flexion and heels completely grounded."
+  },
+  {
+    "id": "assisted-pistol-squat",
+    "name": "Assisted Pistol Squat",
+    "category": "Pistol Squat Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 4,
+    "movement_type": "Legs",
+    "equipment": [
+      "Pole or Suspension Straps"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Quadriceps (Unilateral)",
+        "Glutes"
+      ],
+      "secondary": [
+        "Hamstrings",
+        "Calves",
+        "Ankle Flexors",
+        "Core"
+      ]
+    },
+    "description": "A crucial single-leg progression. Using a support strap or pole helps stabilize your balance and allows you to practice the unilateral movement with safe joint loading.",
+    "form_cues": {
+      "setup": "Stand on one foot in front of a pole or suspension straps. Hold the support lightly. Extend your non-working leg straight out in front of you, foot elevated off the floor.",
+      "execution": "Inhale and lower your hips backward and down, bending your working knee. Keep the heel of your working foot flat on the floor. Squat down as deep as possible, letting your non-working leg float above the ground. Use the hand support to help press back up to standing.",
+      "key_cues": [
+        "Keep your knee tracking in line with your foot; do not let it wobble.",
+        "Keep the heel of your standing foot flat on the floor.",
+        "Use your arms only to pull yourself out of sticky spots, making the leg do 90% of the work."
+      ]
+    },
+    "common_mistakes": [
+      "Letting the standing heel lift off the ground.",
+      "Standing knee caving inward.",
+      "Collapsing onto your butt at the bottom of the range."
+    ],
+    "progression_criteria": "Perform 3 sets of 8 strict reps per leg before progressing to full Pistol Squats.",
+    "video_instructions": "Side-angle shot capturing deep single-leg depth, the extended non-working leg, flat heel, and minimal arm assistance."
+  },
+  {
+    "id": "pistol-squat",
+    "name": "Pistol Squat (Full)",
+    "category": "Pistol Squat Progression",
+    "difficulty": "Advanced",
+    "progression_order": 5,
+    "movement_type": "Legs",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Quadriceps (Unilateral)",
+        "Glutes",
+        "Hamstrings"
+      ],
+      "secondary": [
+        "Ankle Flexors",
+        "Core (Abs)",
+        "Hip Flexors (Extended Leg)"
+      ]
+    },
+    "description": "The premier bodyweight leg exercise. Demands extreme unilateral strength, balance, ankle mobility, and active hip flexion to perform a deep, unassisted single-leg squat.",
+    "form_cues": {
+      "setup": "Stand tall on one leg, feet straight. Lift your non-working leg off the ground, extending it straight in front of you with toes pointed. Reach your arms straight out for balance.",
+      "execution": "Inhale and lower your hips backward and down on your working leg. Fold your torso slightly forward. Descend until your thigh touches your calf at the bottom. Keep your non-working leg completely straight and parallel to the floor. Exhale and drive through your heel to stand up, locking out your hip.",
+      "key_cues": [
+        "Drive through your heel, gripping the floor with your toes.",
+        "Squeeze the quad of your extended leg to keep it from touching the ground.",
+        "Keep your core braced tightly to maintain stability."
+      ]
+    },
+    "common_mistakes": [
+      "Knee collapsing inward (extremely dangerous for the ligaments).",
+      "Heel of the working foot lifting.",
+      "Allowing the extended foot to touch the floor."
+    ],
+    "progression_criteria": "Perform 3 sets of 5 strict, unassisted reps per leg before progressing.",
+    "video_instructions": "Side and front shots illustrating the deep single-leg bottom position, elevated extended leg, flat heel, upright posture, and knee alignment."
+  },
+  {
+    "id": "plank",
+    "name": "Plank (High & Elbow)",
+    "category": "L-Sit Progression",
+    "difficulty": "Beginner",
+    "progression_order": 1,
+    "movement_type": "Core",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Rectus Abdominis (Abs)",
+        "Transverse Abdominis"
+      ],
+      "secondary": [
+        "Obliques",
+        "Anterior Deltoids",
+        "Glutes",
+        "Serratus Anterior"
+      ]
+    },
+    "description": "The fundamental isometric core exercise. Establishes high abdominal bracing capacity, shoulder stability, and teaches the flat-spine (posterior pelvic tilt) alignment.",
+    "form_cues": {
+      "setup": "Get into an elbow or high plank position. Place elbows/hands directly beneath your shoulders. Feet should be together, body straight.",
+      "execution": "Squeeze your glutes, quadriceps, and abdominals. Tuck your tailbone under (posterior pelvic tilt) to flatten your lower back. Push through your elbows/palms to spread your shoulder blades (protraction). Hold this rigid position, breathing normally.",
+      "key_cues": [
+        "Squeeze your glutes to lock your pelvis in position.",
+        "Do not let your lower back arch; keep your abs tight.",
+        "Actively push away from the floor; do not sag in your shoulders."
+      ]
+    },
+    "common_mistakes": [
+      "Lower back sagging (banana posture), causing lower back stress.",
+      "Butt sticking up in the air.",
+      "Looking straight up, straining the cervical neck."
+    ],
+    "progression_criteria": "Hold a solid plank with a flat back for 3 sets of 60 seconds before progressing to Hollow Body Holds.",
+    "video_instructions": "Side-angle shot showing a perfectly flat lower back, tucked tailbone, and elevated shoulders."
+  },
+  {
+    "id": "hollow-body-hold",
+    "name": "Hollow Body Hold",
+    "category": "L-Sit Progression",
+    "difficulty": "Beginner",
+    "progression_order": 2,
+    "movement_type": "Core",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Rectus Abdominis",
+        "Transverse Abdominis",
+        "Obliques"
+      ],
+      "secondary": [
+        "Hip Flexors",
+        "Quadriceps"
+      ]
+    },
+    "description": "The most important body position in calisthenics. Teaches intense core compression and pelvic control, serving as the basis for handstands, levers, and L-sits.",
+    "form_cues": {
+      "setup": "Lie flat on your back, legs straight, arms extended overhead.",
+      "execution": "Press your lower back firmly into the floor (eliminate any gap under your spine by tilting your pelvis). Raise your legs 6-12 inches off the ground, and lift your shoulder blades slightly off the floor. Keep your arms extended backward, chin tucked, body shaped like a shallow banana. Hold.",
+      "key_cues": [
+        "Your lower back must remain glued to the floor; if it arches, raise your legs higher.",
+        "Squeeze your legs together, lock your knees, and point your toes.",
+        "Squeeze your ribs down toward your hips."
+      ]
+    },
+    "common_mistakes": [
+      "Lower back lifting off the floor (causes back pain and loses abs tension).",
+      "Lifting the legs too high or bending the knees to cheat.",
+      "Craning the neck forward (keep chin tucked naturally)."
+    ],
+    "progression_criteria": "Hold a strict hollow body shape with lower back flat for 3 sets of 45 seconds before progressing.",
+    "video_instructions": "Side shot in close-up focusing on the lower back pressed flat into the floor, pointed toes, and elevated shoulder blades."
+  },
+  {
+    "id": "tuck-l-sit",
+    "name": "Tuck L-Sit",
+    "category": "L-Sit Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 3,
+    "movement_type": "Core",
+    "equipment": [
+      "Parallettes, Floor, or Dip Bars"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Rectus Abdominis",
+        "Hip Flexors",
+        "Triceps (Lockout)"
+      ],
+      "secondary": [
+        "Lower Trapezius",
+        "Lats",
+        "Quadriceps"
+      ]
+    },
+    "description": "An intermediate compression exercise. Lifting the bodyweight on straight arms while tucking the legs builds scapular depression and baseline hip flexor compression strength.",
+    "form_cues": {
+      "setup": "Sit on the floor between parallettes (or stand on dip bars). Place hands on the bars.",
+      "execution": "Depress your shoulders (push yourself tall) and lock out your elbows completely. Lift your hips and butt off the floor. Pull your knees up toward your chest, keeping your feet tucked close to your hips. Hold statically.",
+      "key_cues": [
+        "Keep your elbows fully locked; do not bend them.",
+        "Push your shoulders down away from your ears to lift your body high.",
+        "Keep your knees tucked as high as possible."
+      ]
+    },
+    "common_mistakes": [
+      "Sinking into the shoulders (ears touching shoulders).",
+      "Bending the elbows.",
+      "Hips drifting backward behind your hands (should stay in line/slightly forward)."
+    ],
+    "progression_criteria": "Hold a stable tuck L-sit for 3 sets of 20 seconds before progressing to L-Sit Hold.",
+    "video_instructions": "Side-angle shot showing the hips lifted off the floor, straight arms, long neck, and tucked knees."
+  },
+  {
+    "id": "l-sit-hold",
+    "name": "L-Sit Hold",
+    "category": "L-Sit Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 4,
+    "movement_type": "Core",
+    "equipment": [
+      "Parallettes, Floor, or Dip Bars"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Rectus Abdominis",
+        "Hip Flexors",
+        "Quadriceps"
+      ],
+      "secondary": [
+        "Triceps (Lockout)",
+        "Lower Trapezius",
+        "Lats",
+        "Forearms"
+      ]
+    },
+    "description": "The classic calisthenics core compression skill. Requires holding the legs completely straight out in front of you at a 90-degree angle to the torso while suspended on straight arms.",
+    "form_cues": {
+      "setup": "Sit between parallettes or on dip bars. Place hands on supports.",
+      "execution": "Lock out your elbows, depress your shoulders, and lift your hips off the floor. Slowly extend your legs straight out in front of you so they are parallel to the ground (forming a perfect 'L' shape with your body). Squeeze your thighs and point your toes.",
+      "key_cues": [
+        "Lock your knees completely straight and squeeze your quads.",
+        "Push your shoulders down and pull your chest forward.",
+        "Keep your legs horizontal to the floor; do not let them droop."
+      ]
+    },
+    "common_mistakes": [
+      "Bending the knees to ease the hamstring stretch.",
+      "Allowing the legs to sag below the horizontal plane.",
+      "Sinking into the shoulders."
+    ],
+    "progression_criteria": "Hold a horizontal L-sit for 3 sets of 15 seconds with straight legs before progressing to Floor L-Sits.",
+    "video_instructions": "Side-angle shot displaying the perfect 90-degree 'L' shape, with legs parallel to the floor, locked elbows, and depressed shoulders."
+  },
+  {
+    "id": "floor-l-sit",
+    "name": "Floor L-Sit",
+    "category": "L-Sit Progression",
+    "difficulty": "Advanced",
+    "progression_order": 5,
+    "movement_type": "Core",
+    "equipment": [
+      "None"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Rectus Abdominis",
+        "Hip Flexors",
+        "Quadriceps",
+        "Triceps"
+      ],
+      "secondary": [
+        "Lower Trapezius",
+        "Lats",
+        "Forearms"
+      ]
+    },
+    "description": "The peak of L-sit strength. Performing the hold flat on the floor eliminates the elevation advantage of bars, requiring extreme active compression, leg extension, and deep shoulder depression.",
+    "form_cues": {
+      "setup": "Sit on the floor with your legs extended straight in front of you, heels touching. Place your hands flat on the floor next to your thighs (sliding them slightly forward increases difficulty).",
+      "execution": "Spread your fingers. Lock out your elbows, depress your shoulders, and contract your abs and hip flexors. Press your palms into the floor to lift your entire body\u2014butt and legs\u2014completely off the ground. Hold.",
+      "key_cues": [
+        "Press your hands flat; do not cup your fingers.",
+        "Push your hips forward so they are aligned with your hands.",
+        "Squeeze your quads as hard as possible to keep legs locked straight."
+      ]
+    },
+    "common_mistakes": [
+      "Heels dragging on the floor (failing to lift legs).",
+      "Bending the elbows.",
+      "Hips drifting backward (makes lifting legs nearly impossible)."
+    ],
+    "progression_criteria": "Hold a clean floor L-sit with heels off the floor for 3 sets of 10 seconds with perfect form.",
+    "video_instructions": "Side shot displaying hands flat on the floor, hips and legs fully suspended in a clean horizontal 'L' position."
+  },
+  {
+    "id": "chest-to-bar-pull-up",
+    "name": "Chest-to-Bar Pull-up",
+    "category": "Muscle-Up Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 1,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Biceps",
+        "Upper Back"
+      ],
+      "secondary": [
+        "Core",
+        "Forearms (Grip)"
+      ]
+    },
+    "description": "An explosive vertical pull. Teaches the high pulling power required to elevate the hips near the bar, making the transition over the bar possible.",
+    "form_cues": {
+      "setup": "Grip the bar with an overhand grip, slightly wider than shoulder-width. Begin in a dead hang with glutes squeezed.",
+      "execution": "Pull yourself up as fast and explosively as possible. Drive your elbows down and back. Pull until your upper chest or collarbone makes contact with the bar. Lower down under control.",
+      "key_cues": [
+        "Pull as explosively as possible; speed is key.",
+        "Aim to pull the bar down to your nipple line.",
+        "Keep your core tight; do not let your legs swing wildly."
+      ]
+    },
+    "common_mistakes": [
+      "Failing to make contact with the chest (short-changing height).",
+      "Using excessive kipping (try to stay as strict as possible).",
+      "Slowing down at the top of the pull."
+    ],
+    "progression_criteria": "Perform 3 sets of 8 strict, explosive chest-to-bar pull-ups before progressing.",
+    "video_instructions": "Side and back shots showing the chest making clear contact with the bar at the peak of an explosive pull."
+  },
+  {
+    "id": "straight-bar-support",
+    "name": "Straight-Bar Support Hold",
+    "category": "Muscle-Up Progression",
+    "difficulty": "Intermediate",
+    "progression_order": 2,
+    "movement_type": "Push",
+    "equipment": [
+      "Pull-Up Bar"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lower Trapezius (Scapular Depression)",
+        "Triceps"
+      ],
+      "secondary": [
+        "Chest (Pectorals)",
+        "Core"
+      ]
+    },
+    "description": "Builds static support strength and balance on top of the pull-up bar, preparing the joints for the final pushing phase of the muscle-up.",
+    "form_cues": {
+      "setup": "Use a box or step to climb on top of a pull-up bar, supporting your bodyweight on your hands with the bar across your waist/thighs.",
+      "execution": "Lock out your elbows completely and depress your shoulders (pull them away from your ears). Lean slightly forward over the bar, keeping your core and glutes squeezed. Keep your body rigid and balanced.",
+      "key_cues": [
+        "Keep your arms locked straight; do not let them bend.",
+        "Push down on the bar to stay tall.",
+        "Keep your core tight and body balanced close to the bar."
+      ]
+    },
+    "common_mistakes": [
+      "Shrugging shoulders (sinking down).",
+      "Letting the hips slide away from the bar.",
+      "Allowing the elbows to bend."
+    ],
+    "progression_criteria": "Hold a stable straight-bar support for 3 sets of 45 seconds with clean alignment before progressing.",
+    "video_instructions": "Front and side-angle shots of the support hold on top of the bar, highlighting locked elbows and depressed shoulders."
+  },
+  {
+    "id": "negative-muscle-up",
+    "name": "Negative Muscle-up",
+    "category": "Muscle-Up Progression",
+    "difficulty": "Advanced",
+    "progression_order": 3,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar",
+      "Elevated Surface"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Triceps",
+        "Lats",
+        "Biceps"
+      ],
+      "secondary": [
+        "Core",
+        "Shoulder Stabilizers"
+      ]
+    },
+    "description": "An eccentric muscle-up progression. Slowly lowering through the transition phase teaches the path of motion and builds joint density in the elbows and wrists.",
+    "form_cues": {
+      "setup": "Start in a straight-bar support position on top of the bar.",
+      "execution": "Slowly lower your chest toward the bar, bending your elbows. Under complete control, roll your shoulders and chest backward around the bar, transitioning into the top of a deep pull-up position. Slowly lower down to a dead hang.",
+      "key_cues": [
+        "Lower as slowly as possible, especially through the transition phase.",
+        "Keep your body close to the bar throughout the descent.",
+        "Control the movement; do not drop abruptly."
+      ]
+    },
+    "common_mistakes": [
+      "Dropping rapidly through the transition phase.",
+      "Letting the body drift too far away from the bar.",
+      "Losing grip control."
+    ],
+    "progression_criteria": "Perform 3 sets of 4 controlled negatives with perfect transition form before progressing.",
+    "video_instructions": "Side-angle shot showing the slow eccentric descent around the bar and transition into a dead hang. Highlight joint control."
+  },
+  {
+    "id": "band-assisted-muscle-up",
+    "name": "Band-Assisted Muscle-up",
+    "category": "Muscle-Up Progression",
+    "difficulty": "Advanced",
+    "progression_order": 4,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar",
+      "Resistance Band"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats",
+        "Triceps",
+        "Biceps",
+        "Chest"
+      ],
+      "secondary": [
+        "Core",
+        "Shoulders"
+      ]
+    },
+    "description": "A practical transition builder. Using a resistance band reduces bodyweight at the bottom of the pull, allowing you to practice the explosive pull and rapid transition over the bar safely.",
+    "form_cues": {
+      "setup": "Loop a resistance band around the pull-up bar. Place one foot or knee into the loop. Grip the bar with an overhand grip.",
+      "execution": "Perform an explosive pull-up. As you reach the peak, explosively lean your torso forward over the bar, rolling your wrists to transition your hands. Press your body up into a straight-bar support.",
+      "key_cues": [
+        "Pull around the bar in a slight 'C' curve, not straight up.",
+        "Rotate your wrists quickly at the transition point.",
+        "Lean forward as soon as your chest clears the bar."
+      ]
+    },
+    "common_mistakes": [
+      "Relying too much on the band and not pulling explosively.",
+      "Failing to rotate the wrists, resulting in chicken-winging (one arm going up first).",
+      "Drifting too far from the bar."
+    ],
+    "progression_criteria": "Perform 3 sets of 5 clean, symmetrical band-assisted muscle-ups before progressing to strict bar muscle-ups.",
+    "video_instructions": "Side shot showcasing the explosive pull, wrist rotation, forward torso lean, and final straight-bar dip lockout."
+  },
+  {
+    "id": "strict-bar-muscle-up",
+    "name": "Strict Bar Muscle-up",
+    "category": "Muscle-Up Progression",
+    "difficulty": "Elite",
+    "progression_order": 5,
+    "movement_type": "Pull",
+    "equipment": [
+      "Pull-Up Bar"
+    ],
+    "muscles_targeted": {
+      "primary": [
+        "Lats (Explosive)",
+        "Triceps (Dip Lockout)",
+        "Chest",
+        "Biceps"
+      ],
+      "secondary": [
+        "Core (Abs)",
+        "Shoulders",
+        "Forearms (Grip)"
+      ]
+    },
+    "description": "The ultimate explosive calisthenics pulling skill. Combines an explosive vertical pull, a rapid forward chest transition, and a vertical straight-bar press in one fluid movement.",
+    "form_cues": {
+      "setup": "Hang from a bar with a shoulder-width overhand grip (ideally using a false grip or knuckles-on-top grip). Squeeze your body tight.",
+      "execution": "Perform an explosive pull-up, pulling your body slightly backward and upward in a 'C' curve. As your chest clears the bar, aggressively drive your elbows back and lean your torso forward over the bar, rotating your wrists rapidly. Press your body up to a straight-bar support lockout.",
+      "key_cues": [
+        "Pull explosively and think about pulling the bar to your belly button.",
+        "Drive your head and shoulders forward over the bar in the transition.",
+        "Perform the transition symmetrically; both elbows must go over at the same time."
+      ]
+    },
+    "common_mistakes": [
+      "Chicken-winging (one elbow going over before the other, which can injure the shoulders).",
+      "Using excessive kipping or leg swinging.",
+      "Failing to rotate the wrists quickly."
+    ],
+    "progression_criteria": "Perform 1 set of 3 clean, strict bar muscle-ups with symmetrical elbow transition.",
+    "video_instructions": "Side and back shots showcasing the complete fluid movement. Highlight the 'C' curve pull, rapid dual-elbow transition, and final press lockout."
+  }
+]

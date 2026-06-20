@@ -79,6 +79,10 @@ export default function Pricing() {
               </ul>
 
               <button 
+                onClick={() => {
+                  alert(`Redirecting to Stripe Checkout for ${plan.name} plan...`);
+                  // In a real app, this would call your backend to create a Stripe session
+                }}
                 className={`w-full py-4 rounded-xl font-bold transition-all ${
                   plan.popular 
                     ? 'bg-primary hover:bg-primary-dark text-white shadow-lg shadow-primary/20' 

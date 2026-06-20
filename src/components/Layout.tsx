@@ -27,6 +27,7 @@ export default function Layout({ children }: LayoutProps) {
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-zinc-400">
             <Link to="/" className="hover:text-primary transition-colors">Home</Link>
             <Link to="/library" className="hover:text-primary transition-colors">Library</Link>
+            <Link to="/programs" className="hover:text-primary transition-colors">Programs</Link>
             <Link to="/pricing" className="hover:text-primary transition-colors">Pricing</Link>
             <Link 
               to="/signup" 
@@ -50,6 +51,7 @@ export default function Layout({ children }: LayoutProps) {
           <nav className="md:hidden border-t border-zinc-800 bg-zinc-950 p-4 flex flex-col gap-4 animate-in slide-in-from-top duration-200">
             <Link to="/" className="text-zinc-400 hover:text-primary py-2" onClick={() => setIsMenuOpen(false)}>Home</Link>
             <Link to="/library" className="text-zinc-400 hover:text-primary py-2" onClick={() => setIsMenuOpen(false)}>Library</Link>
+            <Link to="/programs" className="text-zinc-400 hover:text-primary py-2" onClick={() => setIsMenuOpen(false)}>Programs</Link>
             <Link to="/pricing" className="text-zinc-400 hover:text-primary py-2" onClick={() => setIsMenuOpen(false)}>Pricing</Link>
             <Link 
               to="/signup" 

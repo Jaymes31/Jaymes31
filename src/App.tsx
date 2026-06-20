@@ -3,6 +3,7 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Library from './pages/Library';
 import Pricing from './pages/Pricing';
+import Programs from './pages/Programs';
 
 function App() {
   return (
@@ -11,8 +12,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/library" element={<Library />} />
+          <Route path="/programs" element={<Programs />} />
           <Route path="/pricing" element={<Pricing />} />
-          <Route path="/signup" element={<Pricing />} /> {/* For MVP, redirect signup to pricing */}
+          <Route path="/signup" element={<Pricing />} />
         </Routes>
       </Layout>
     </Router>

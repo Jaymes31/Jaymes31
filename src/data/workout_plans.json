@@ -1,0 +1,204 @@
+[
+  {
+    "id": "beginner-full-body",
+    "name": "Beginner Full Body Foundation",
+    "difficulty": "Beginner",
+    "description": "A full-body strength and conditioning routine designed for absolute beginners to establish shoulder stability, core strength, and basic lower body mechanics.",
+    "frequency": "3 days per week (e.g., Monday, Wednesday, Friday)",
+    "warmup": [
+      "5-10 mins light cardio (jumping jacks, high knees)",
+      "Shoulder rolls & arm circles (15 reps each direction)",
+      "Wrist mobility stretches (1-2 mins)",
+      "Scapular shrugs on floor (2 sets of 10 reps)"
+    ],
+    "schedule": {
+      "Monday": "Full Body A",
+      "Wednesday": "Full Body A",
+      "Friday": "Full Body A"
+    },
+    "exercises": [
+      {
+        "exercise_id": "bodyweight-squat",
+        "sets": 3,
+        "reps": "12-15 reps",
+        "rest": "90 seconds",
+        "coaching_note": "Focus on hips back, knees in line with toes, and keeping chest proud."
+      },
+      {
+        "exercise_id": "incline-push-up",
+        "sets": 3,
+        "reps": "8-12 reps",
+        "rest": "90 seconds",
+        "coaching_note": "Touch lower chest to edge of box. Keep core completely stiff."
+      },
+      {
+        "exercise_id": "legs-straight-row",
+        "sets": 3,
+        "reps": "8-12 reps",
+        "rest": "90 seconds",
+        "coaching_note": "Pull chest to bar. Squeeze glutes and retract shoulder blades."
+      },
+      {
+        "exercise_id": "bench-dip",
+        "sets": 3,
+        "reps": "10-12 reps",
+        "rest": "90 seconds",
+        "coaching_note": "Keep back close to the bench. Lock elbows out at the top."
+      },
+      {
+        "exercise_id": "plank",
+        "sets": 3,
+        "reps": "30-45 seconds hold",
+        "rest": "60 seconds",
+        "coaching_note": "Avoid sagging. Actively push floor away and tuck tailbone."
+      },
+      {
+        "exercise_id": "dead-hang",
+        "sets": 2,
+        "reps": "30-45 seconds hold",
+        "rest": "60 seconds",
+        "coaching_note": "Build strong grip and active shoulders."
+      }
+    ],
+    "cooldown": [
+      "Chest stretch against wall (30 secs per side)",
+      "Lat/Back child's pose stretch (1 min)",
+      "Quad stretch standing (30 secs per leg)"
+    ]
+  },
+  {
+    "id": "intermediate-upper-lower",
+    "name": "Intermediate Upper/Lower Split",
+    "difficulty": "Intermediate",
+    "description": "A 4-day split routine focusing on building vertical and horizontal pushing/pulling strength, solid core compression, and foundational single-leg power.",
+    "frequency": "4 days per week (e.g., Mon/Tue/Thu/Fri)",
+    "warmup": [
+      "5-10 mins dynamic mobility",
+      "Band pull-aparts & shoulder dislocates (15 reps each)",
+      "Wrist prep and plank lean warmups"
+    ],
+    "schedule": {
+      "Monday": "Upper Body Strength",
+      "Tuesday": "Lower Body & Core",
+      "Thursday": "Upper Body Strength",
+      "Friday": "Lower Body & Core"
+    },
+    "exercises": [
+      {
+        "exercise_id": "classic-pull-up",
+        "sets": 4,
+        "reps": "6-8 reps",
+        "rest": "120 seconds",
+        "coaching_note": "Strict reps only. Full dead hang to chest-to-bar height."
+      },
+      {
+        "exercise_id": "parallel-bar-dip",
+        "sets": 4,
+        "reps": "8-10 reps",
+        "rest": "120 seconds",
+        "coaching_note": "Lean slightly forward to engage chest. Go to at least 90-degree bend."
+      },
+      {
+        "exercise_id": "pike-push-up",
+        "sets": 3,
+        "reps": "6-10 reps",
+        "rest": "90 seconds",
+        "coaching_note": "Form tripod with head and hands. Tuck elbows."
+      },
+      {
+        "exercise_id": "tuck-front-lever",
+        "sets": 3,
+        "reps": "12-15 seconds hold",
+        "rest": "90 seconds",
+        "coaching_note": "Keep arms fully locked. Push bar down to hips."
+      },
+      {
+        "exercise_id": "assisted-pistol-squat",
+        "sets": 3,
+        "reps": "6-8 reps per leg",
+        "rest": "90 seconds",
+        "coaching_note": "Keep supporting heel flat on ground. Use light hand assistance."
+      },
+      {
+        "exercise_id": "l-sit-hold",
+        "sets": 3,
+        "reps": "10-15 seconds hold",
+        "rest": "90 seconds",
+        "coaching_note": "Depress shoulders and lock arms completely straight."
+      }
+    ],
+    "cooldown": [
+      "Shoulder stretch across body",
+      "Hamstring hamstring stretch",
+      "Deep hip flexor lunge stretch"
+    ]
+  },
+  {
+    "id": "advanced-skill-split",
+    "name": "Advanced Skill & Strength Plan",
+    "difficulty": "Advanced",
+    "description": "An intense routine designed for seasoned athletes working to master elite bodyweight skills like the planche, front lever, muscle-up, and handstand push-up.",
+    "frequency": "4-5 days per week",
+    "warmup": [
+      "10 mins thorough joint and tissue prep",
+      "Wrist conditioning (stretches, push-ups on knees)",
+      "Scapular activation (retraction/depression on bar & floor)"
+    ],
+    "schedule": {
+      "Monday": "Push Skill & Strength",
+      "Tuesday": "Pull Skill & Strength",
+      "Thursday": "Push Skill & Strength",
+      "Friday": "Pull Skill & Strength",
+      "Saturday": "Legs & Core"
+    },
+    "exercises": [
+      {
+        "exercise_id": "strict-bar-muscle-up",
+        "sets": 4,
+        "reps": "3-5 reps",
+        "rest": "180 seconds",
+        "coaching_note": "Explosive pull-up. Focus on rapid transition and bar dip."
+      },
+      {
+        "exercise_id": "tuck-planche",
+        "sets": 4,
+        "reps": "8-12 seconds hold",
+        "rest": "150 seconds",
+        "coaching_note": "Perfect arm lockout. Protract scapula and lean forward."
+      },
+      {
+        "exercise_id": "adv-tuck-front-lever",
+        "sets": 4,
+        "reps": "10-15 seconds hold",
+        "rest": "150 seconds",
+        "coaching_note": "Flatten lower back completely. Keep thighs perpendicular."
+      },
+      {
+        "exercise_id": "wall-handstand-push-up",
+        "sets": 3,
+        "reps": "5-8 reps",
+        "rest": "120 seconds",
+        "coaching_note": "Tripod head touch. Avoid banana spine arching."
+      },
+      {
+        "exercise_id": "pistol-squat",
+        "sets": 4,
+        "reps": "5-8 reps per leg",
+        "rest": "90 seconds",
+        "coaching_note": "Deep single-leg squats under strict eccentric control."
+      },
+      {
+        "exercise_id": "floor-l-sit",
+        "sets": 3,
+        "reps": "10-15 seconds hold",
+        "rest": "90 seconds",
+        "coaching_note": "Press hands flat into floor. Lift hips and heels up."
+      }
+    ],
+    "cooldown": [
+      "Wrist flexion/extension recovery stretch",
+      "Chest opener / doorframe stretch",
+      "Passive hang on bar (1-2 mins)"
+    ]
+  }
+]

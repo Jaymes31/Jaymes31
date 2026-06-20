@@ -1,57 +1,27 @@
 import { useState } from 'react';
 import { Search, Play, Clock, BarChart } from 'lucide-react';
-
-const MOCK_WORKOUTS = [
-  {
-    id: '1',
-    title: 'Perfect Pull-up Form',
-    category: 'Foundations',
-    level: 'Beginner',
-    duration: '5 min',
-    thumbnail: 'https://images.unsplash.com/photo-1598971639058-fab3c043ff38?w=800&auto=format&fit=crop&q=60',
-  },
-  {
-    id: '2',
-    title: 'Muscle-up Progression',
-    category: 'Skills',
-    level: 'Intermediate',
-    duration: '12 min',
-    thumbnail: 'https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=800&auto=format&fit=crop&q=60',
-  },
-  {
-    id: '3',
-    title: 'Planche Strength',
-    category: 'Statics',
-    level: 'Advanced',
-    duration: '15 min',
-    thumbnail: 'https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?w=800&auto=format&fit=crop&q=60',
-  },
-  {
-    id: '4',
-    title: 'Handstand Balance',
-    category: 'Skills',
-    level: 'Beginner',
-    duration: '8 min',
-    thumbnail: 'https://images.unsplash.com/photo-1544033527-b192daee1f5b?w=800&auto=format&fit=crop&q=60',
-  },
-];
+import exercisesData from '../data/exercises.json';
 
 export default function Library() {
   const [search, setSearch] = useState('');
   const [filter, setFilter] = useState('All');
 
-  const filteredWorkouts = MOCK_WORKOUTS.filter(w => 
-    (filter === 'All' || w.category === filter) &&
-    w.title.toLowerCase().includes(search.toLowerCase())
+  // Extract unique categories from data
+  const categories = ['All', ...new Set(exercisesData.map(e => e.category))];
+
+  const filteredExercises = exercisesData.filter(e => 
+    (filter === 'All' || e.category === filter) &&
+    (e.name.toLowerCase().includes(search.toLowerCase()) || 
+     e.description.toLowerCase().includes(search.toLowerCase()))
   );
 
   return (
     <div className="py-12 bg-zinc-950 min-h-screen">
       <div className="container mx-auto px-4">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-12">
+        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6 mb-12">
           <div>
-            <h1 className="text-3xl font-bold text-white mb-2">Workout Library</h1>
-            <p className="text-zinc-500">Master every move with our expert-led demonstrations.</p>
+            <h1 className="text-3xl font-bold text-white mb-2">Exercise Library</h1>
+            <p className="text-zinc-500">Master every move with step-by-step progressions.</p>
           </div>
           
           <div className="flex flex-col sm:flex-row gap-4">
@@ -65,8 +35,8 @@ export default function Library() {
                 onChange={(e) => setSearch(e.target.value)}
               />
             </div>
-            <div className="flex bg-zinc-900 p-1 rounded-lg border border-zinc-800 overflow-x-auto">
-              {['All', 'Foundations', 'Skills', 'Statics'].map((cat) => (
+            <div className="flex bg-zinc-900 p-1 rounded-lg border border-zinc-800 overflow-x-auto max-w-full sm:max-w-md lg:max-w-none">
+              {categories.map((cat) => (
                 <button
                   key={cat}
                   onClick={() => setFilter(cat)}
@@ -81,15 +51,15 @@ export default function Library() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-          {filteredWorkouts.map((workout) => (
-            <div key={workout.id} className="group bg-zinc-900 rounded-xl overflow-hidden border border-zinc-800 hover:border-zinc-700 transition-all flex flex-col">
-              <div className="relative aspect-video overflow-hidden">
-                <img 
-                  src={workout.thumbnail} 
-                  alt={workout.title}
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                />
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          {filteredExercises.map((exercise) => (
+            <div key={exercise.id} className="group bg-zinc-900 rounded-xl overflow-hidden border border-zinc-800 hover:border-zinc-700 transition-all flex flex-col">
+              <div className="relative aspect-video overflow-hidden bg-zinc-800">
+                {/* Fallback for missing thumbnails since we don't have images yet */}
+                <div className="w-full h-full flex items-center justify-center text-zinc-700 group-hover:scale-105 transition-transform duration-500">
+                  <Play className="w-12 h-12 opacity-20" />
+                </div>
+                
                 <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
                   <div className="bg-primary p-3 rounded-full text-white transform scale-90 group-hover:scale-100 transition-transform shadow-xl shadow-primary/20">
                     <Play className="w-6 h-6 fill-current" />
@@ -97,25 +67,26 @@ export default function Library() {
                 </div>
                 <div className="absolute top-2 left-2 flex gap-2">
                   <span className={`px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider ${
-                    workout.level === 'Beginner' ? 'bg-green-500/20 text-green-500 border border-green-500/30' :
-                    workout.level === 'Intermediate' ? 'bg-blue-500/20 text-blue-500 border border-blue-500/30' :
+                    exercise.difficulty === 'Beginner' ? 'bg-green-500/20 text-green-500 border border-green-500/30' :
+                    exercise.difficulty === 'Intermediate' ? 'bg-blue-500/20 text-blue-500 border border-blue-500/30' :
                     'bg-purple-500/20 text-purple-500 border border-purple-500/30'
                   }`}>
-                    {workout.level}
+                    {exercise.difficulty}
                   </span>
                 </div>
               </div>
               <div className="p-5 flex-grow">
-                <span className="text-primary text-[10px] font-bold uppercase tracking-widest mb-1 block">{workout.category}</span>
-                <h3 className="text-white font-bold mb-4 group-hover:text-primary transition-colors line-clamp-1">{workout.title}</h3>
-                <div className="flex items-center justify-between text-zinc-500 text-xs">
+                <span className="text-primary text-[10px] font-bold uppercase tracking-widest mb-1 block">{exercise.category}</span>
+                <h3 className="text-white font-bold mb-2 group-hover:text-primary transition-colors line-clamp-1">{exercise.name}</h3>
+                <p className="text-zinc-500 text-xs line-clamp-2 mb-4 h-8">{exercise.description}</p>
+                <div className="flex items-center justify-between text-zinc-500 text-[10px] pt-4 border-t border-zinc-800">
                   <div className="flex items-center gap-1.5">
-                    <Clock className="w-3.5 h-3.5" />
-                    <span>{workout.duration}</span>
+                    <Clock className="w-3 h-3" />
+                    <span>{exercise.movement_type}</span>
                   </div>
                   <div className="flex items-center gap-1.5">
-                    <BarChart className="w-3.5 h-3.5" />
-                    <span>{workout.level}</span>
+                    <BarChart className="w-3 h-3" />
+                    <span>Order: {exercise.progression_order}</span>
                   </div>
                 </div>
               </div>
@@ -123,9 +94,15 @@ export default function Library() {
           ))}
         </div>
 
-        {filteredWorkouts.length === 0 && (
+        {filteredExercises.length === 0 && (
           <div className="py-20 text-center">
-            <p className="text-zinc-500">No exercises found matching your search.</p>
+            <p className="text-zinc-500">No exercises found matching your criteria.</p>
+            <button 
+              onClick={() => {setSearch(''); setFilter('All');}}
+              className="text-primary hover:underline mt-2 text-sm"
+            >
+              Clear all filters
+            </button>
           </div>
         )}
       </div>
