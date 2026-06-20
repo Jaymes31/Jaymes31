@@ -1,10 +1,12 @@
 import { useState } from 'react';
 import { Search, Play, Clock, BarChart } from 'lucide-react';
 import exercisesData from '../data/exercises.json';
+import ExerciseModal from '../components/ExerciseModal';
 
 export default function Library() {
   const [search, setSearch] = useState('');
   const [filter, setFilter] = useState('All');
+  const [selectedExercise, setSelectedExercise] = useState<any>(null);
 
   // Extract unique categories from data
   const categories = ['All', ...new Set(exercisesData.map(e => e.category))];
@@ -53,7 +55,11 @@ export default function Library() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {filteredExercises.map((exercise) => (
-            <div key={exercise.id} className="group bg-zinc-900 rounded-xl overflow-hidden border border-zinc-800 hover:border-zinc-700 transition-all flex flex-col">
+            <div 
+              key={exercise.id} 
+              onClick={() => setSelectedExercise(exercise)}
+              className="group bg-zinc-900 rounded-xl overflow-hidden border border-zinc-800 hover:border-zinc-700 transition-all flex flex-col cursor-pointer"
+            >
               <div className="relative aspect-video overflow-hidden bg-zinc-800">
                 {/* Fallback for missing thumbnails since we don't have images yet */}
                 <div className="w-full h-full flex items-center justify-center text-zinc-700 group-hover:scale-105 transition-transform duration-500">
@@ -105,6 +111,11 @@ export default function Library() {
             </button>
           </div>
         )}
+
+        <ExerciseModal 
+          exercise={selectedExercise} 
+          onClose={() => setSelectedExercise(null)} 
+        />
       </div>
     </div>
   );

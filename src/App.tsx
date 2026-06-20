@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Library from './pages/Library';
 import Pricing from './pages/Pricing';
 import Programs from './pages/Programs';
+import ProgramDetail from './pages/ProgramDetail';
 import Auth from './pages/Auth';
 import { AuthProvider } from './contexts/AuthContext';
 import ProtectedRoute from './components/ProtectedRoute';
@@ -21,6 +22,14 @@ function App() {
               element={
                 <ProtectedRoute requireSubscription>
                   <Programs />
+                </ProtectedRoute>
+              } 
+            />
+            <Route 
+              path="/programs/:id" 
+              element={
+                <ProtectedRoute requireSubscription>
+                  <ProgramDetail />
                 </ProtectedRoute>
               } 
             />
